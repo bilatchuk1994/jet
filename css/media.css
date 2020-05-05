@@ -3195,6 +3195,36 @@
     left: -25px;
 }
 
+.banner-photo .banner-img {
+    left: -25px;
+    top: 0;
+}
+
+.banner-headphones .banner-img {
+    left: -25px;
+}
+
+.banner-audio .banner-img {
+    left: -25px;
+}
+
+.banner-column .banner-img {
+    left: -25px;
+    top: 32px;
+}
+
+.banner-foto .banner-img {
+    left: -25px;
+}
+
+.banner-foto-video .banner-img {
+    left: -25px;
+}
+
+.banner h3 br{
+  display: none;
+}
+
 }
 
 
@@ -3274,5 +3304,55 @@
 .banner-clothing .banner-img {
     top: -65px;
 }
+
+.banner-apple .banner-img {
+    top: 39px;
+}
+
+.banner-desctop .banner-img {
+    top: 56px;
+}
+
+.banner-apple-mob .banner-img {
+    top: 53px;
+}
+
+
+.banner-smart .banner-img {
+    top: 38px;
+}
+
+.banner h3 {
+    font-size: 12px;
+    width: 95%;
+    margin: 0 0 10px;
+}
+
+.banner h3 br{
+  display: none;
+}
+
+.banner-desctop .banner-img {
+    top: 36px;
+}
+
+.banner-apple-mob .banner-img {
+    top: 43px;
+}
+
+.banner-nokia .banner-img {
+    top: 43px;
+}
+
+.banner-samsung .banner-img {
+    left: -25px;
+    top: 43px;
+}
+
+
+.banner-column .banner-img {
+    top: 42px;
+}
+
 
 }
