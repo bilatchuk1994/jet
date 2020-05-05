@@ -3574,6 +3574,407 @@ list-style: none;
 
 
 
+/*======== beg Banners ========*/
+.banner-bosh .banner-img {
+    top: -53px;
+    left: 38px;
+}
+
+.banner-panasonic 
+.banner-img {
+    left: 61px;
+    top: -39px;
+}
+
+.banner-philips .banner-img {
+    left: -17px;
+    top: -48px;
+}
+
+.banner-polaris .banner-img {
+    left: 89px;
+    top: -52px;
+}
+
+
+.banner-redmond .banner-img {
+    left: 10px;
+    top: -25px;
+}
+
+
+.banner-vitek .banner-img {
+    left: 75px;
+    top: -50px;
+}
+
+.banner-appliances .banner-img {
+    left: 35px;
+    top: -44px;
+}
+
+.banner-acer .banner-img {
+    left: -11px;
+    top: -38px;
+}
+
+.banner-apple .banner-img {
+    left: 17px;
+    top: -40px;
+}
+
+.banner-asus .banner-img {
+    left: 18px;
+    top: -48px;
+}
+
+.banner-desctop .banner-img {
+    left: -52px;
+    top: -54px;
+}
+
+.banner-desctop-tablet .banner-img {
+    left: -49px;
+    top: -53px;
+}
+
+.banner-tablets .banner-img {
+    left: 183px;
+    top: -51px;
+}
+
+
+.banner-apple-mob .banner-img {
+    left: -21px;
+    top: -45px;
+}
+
+.banner-nokia .banner-img {
+    left: -34px;
+    top: -47px;
+}
+
+.banner-samsung .banner-img {
+    left: -53px;
+    top: -55px;
+}
+
+.banner-smart .banner-img {
+    left: -12px;
+    top: -38px;
+}
+
+.banner-smart-mob .banner-img {
+    left: 25px;
+    top: -53px;
+}
+
+.banner-phone .banner-img {
+    left: 115px;
+    top: -53px;
+}
+
+.banner-auto .banner-img {
+    left: 86px;
+    top: -27px;
+}
+
+.banner-game .banner-img {
+    left: 117px;
+    top: -49px;
+}
+
+.banner-watch .banner-img {
+    left: 67px;
+    top: -37px;
+}
+
+.banner-electronics .banner-img {
+    left: -18px;
+    top: -50px;
+}
+
+
+.banner-photo .banner-img {
+    left: 2px;
+    top: -53px;
+}
+
+.banner-headphones .banner-img {
+    left: -38px;
+    top: -15px;
+}
+
+.banner-audio .banner-img {
+    left: 104px;
+    top: -37px;
+}
+
+.banner-column .banner-img {
+    left: -30px;
+    top: -54px;
+}
+
+.banner-foto .banner-img {
+    left: 60px;
+    top: -17px;
+}
+
+.banner-foto-video .banner-img {
+    left: 126px;
+    top: -48px;
+}
+
+
+
+/*======== end Banners ========*/
+
+
+/*======== beg Menu ========*/
+.category__icon {
+  margin-right: 4px;
+  width: 12px;
+  height: auto;
+  vertical-align: middle;
+  position: relative;
+  display: inline-block;
+  top: -1px;
+}
+
+.category__icon svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  fill: #3b3b3b;
+  transition: .15s all ease-in;
+}
+
+
+
+
+
+.category__arrow {
+  height: 48px;
+  width: 28px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: 12px;
+}
+
+.category__arrow svg {
+  display: block;
+  fill: #3b3b3b;
+  transition: .15s all ease-in;
+  width: 10px;
+  height: 10px;
+}
+
+.category__inner {
+  position: absolute;
+  opacity: 0;
+  visibility: hidden;
+  transition: .15s all ease-in;
+}
+
+
+
+
+.category__inner li:last-of-type a {
+  padding-bottom: 19px;
+
+}
+
+.category__inner li:last-of-type a:before {
+  border-radius: 0 0 15px 15px;
+}
+
+.category-flex ul.category__inner li:last-of-type a:after {
+  display: none;
+}
+
+.category__top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+
+.category__top:after {
+  content: '';
+  position: absolute;
+  background-color: #fff;
+  top: 0;
+  height: 126%;
+  left: 100%;
+  width: 12px;
+  opacity: 0;
+  visibility: visible;
+  transition: .15s all ease-in;
+}
+
+.category__inner li:first-of-type .category__top:after {
+  border-radius: 15px 0 0 0;
+}
+
+.category__inner li:last-of-type .category__top:after {
+  border-radius: 0 0 0 15px;
+  height: 100%;
+}
+
+.category-flex ul.category__inner li {
+  margin-right: 0;
+  width: 100%;
+  padding-left: 14px;
+}
+
+.category-flex ul.category__inner li a {
+  padding: 7px 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  color: inherit;
+  text-decoration: none;
+  font-size: 12px;
+  letter-spacing: 0;
+  flex: 1;
+  min-height: 48px;
+}
+
+.category-flex ul.category__inner li a:before {
+  display: none;
+}
+
+.category-flex ul.category__inner li a span {
+  flex: 1;
+}
+
+.category-flex ul.category__inner li ul li a {
+  text-transform: none;
+  padding-right: 14px;
+}
+
+.category-flex ul.category__inner li a img {
+  max-height: 32px;
+}
+
+.category-flex ul.category__inner li a {
+  position: relative;
+}
+
+.category-flex ul.category__inner li a:after {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+  right: -40px;
+  left: 0;
+  height: 1px;
+  background-color: #d2d2d2;
+  z-index: -2;
+}
+
+.category-flex ul.category__inner li > ul a:after {
+  z-index: 0;
+  right: 0px;
+}
+
+.category-flex ul.category__inner li ul {
+  left: 100%;
+  top: 0;
+  opacity: 0;
+  visibility: hidden;
+  height: 100%;
+}
+
+.category-flex ul.category__inner > li > .category__top a:before, .category-flex ul.category__inner > li > a:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 1px;
+  background-color: #fff;
+  box-shadow: 0px 4px 9px 0px rgba(73, 73, 73, 0.75);
+  right: -42px;
+  left: -14px;
+  display: inline-block;
+  width: auto;
+  height: auto;
+  opacity: 0;
+  transition: .15s all ease-in;
+  visibility: hidden;
+  z-index: -1;
+}
+
+.category-flex ul.category__inner > li:first-of-type a:before {
+  border-radius: 15px 15px 0 0;
+}
+
+.category-container > ul > li ul {
+  box-shadow: 0px 4px 9px 0px rgba(73, 73, 73, 0.75);
+  border-radius: 15px;
+  background: #fff;
+  position: absolute;
+  width: 280px;
+}
+
+.category__inner  {
+  font-family: 'Roboto', sans-serif;
+}
+
+.category-flex {
+  position: relative;
+}
+
+.category__burger .category__inner {
+  left: 0;
+}
+
+.category__inner {
+  z-index: 7;
+  top: 100%;
+}
+
+.category__inner.category--flat a {
+  text-transform: none;
+  padding-right: 14px;
+}
+
+.category-flex ul.category__inner.category--flat > li > a:before,
+.category-flex ul.category__inner.category--flat > li > a:after {
+  right: 0;
+}
+
+
+.category__inner.category--flat {
+  right: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 27px;
+}
+
+.category__dropdown {
+  position: relative;
+}
+
+.category__preview {
+  width: 50px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 17px;
+}
+
+.category__preview  img {
+  max-height: 32px;
+  max-width: 37px;
+  height: auto;
+  width: auto;
+}
+
+/*======== end Menu ========*/
+
+
 /*======== beg Footer ========*/
 .footer {
     background-color: rgb(255, 255, 255);

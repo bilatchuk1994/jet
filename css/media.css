@@ -203,6 +203,69 @@
     padding: 13px 5px 0 10px;
 }
 
+.banner-bosh .banner-img {
+    left: 18px;
+}
+
+.banner-panasonic .banner-img {
+    left: 41px;
+}
+
+.banner-philips .banner-img {
+    left: -37px;
+}
+
+.banner-polaris .banner-img {
+    left: 59px;
+}
+
+.banner-redmond .banner-img {
+    left: -10px;
+}
+
+}
+
+
+@media screen and (min-width: 992px) {
+  .category-flex ul li.category__burger:hover > a {
+    color: #4642f2;
+  }
+
+  .category-flex ul li.category__burger:hover .category__icon svg {
+    fill: #4642f2;
+  }
+
+  .category-container > ul > li:hover .category__inner {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .category-flex ul.category__inner li > ul a:hover {
+    color: #4643f2
+  }
+
+  .category-flex ul.category__inner li:hover ul {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .category-flex ul.category__inner li:hover > .category__top:after {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .category-flex ul.category__inner li:hover > a:before, .category-flex ul.category__inner li:hover > .category__top a:before {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .category-flex ul.category__inner > li:hover > a, .category-flex ul.category__inner > li:hover > .category__top a {
+    color: #4641fd;
+  }
+
+  .category-flex ul.category__inner > li:hover > .category__arrow svg, .category-flex ul.category__inner > li:hover > .category__top .category__arrow svg {
+    fill: #4641fd;
+  }
 }
 
 /*==============================  Desktop 991  ==============================*/
@@ -1141,6 +1204,252 @@
     position: absolute;
 }
 
+.banner-bosh .banner-img {
+    top: 0;
+    left: 0;
+}
+
+.banner-panasonic .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-philips .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-polaris .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-redmond .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-vitek .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-appliances .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-acer .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-apple .banner-img {
+    left: 0;
+    top: 31px;
+}
+
+.banner-asus .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-desctop .banner-img {
+    left: 0;
+    top: 38px;
+}
+
+.banner-desctop-tablet .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-tablets .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-apple-mob .banner-img {
+    left: 0;
+    top: 22px;
+}
+
+.banner-nokia .banner-img {
+    left: 0;
+    top: 37px;
+}
+
+.banner-samsung .banner-img {
+    left: 0;
+    top: 38px;
+}
+
+.banner-smart .banner-img {
+    left: 0;
+    top: 37px;
+}
+
+.banner-smart-mob .banner-img {
+    left: 0;
+    top: 27px;
+}
+
+.banner-phone .banner-img {
+    left: 0;
+    top: 23px;
+}
+
+.banner-auto .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-game .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-watch .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-electronics .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-photo .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-headphones .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-audio .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-column .banner-img {
+    left: 0;
+    top: 36px;
+}
+
+.banner-foto .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-foto-video .banner-img {
+    left: 0;
+    top: 0;
+}
+
+  .category-container li.category__burger.active .category__inner {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .category-flex ul.category__inner li ul {
+    opacity: 1;
+    visibility: visible;
+    max-height: 0;
+    transition: .25s all ease-in;
+    position: initial;
+    overflow: hidden;
+    height: auto;
+    width: 100%;
+    box-shadow: none;
+    border-radius: 0;
+  }
+
+  .category-flex ul.category__inner li ul li:last-of-type {
+    padding-bottom: 25px;
+  }
+
+  .category-flex ul.category__inner li.active .category__arrow svg {
+    transform: rotate(90deg);
+    fill: #4641fd;
+  }
+
+  .category-flex ul.category__inner li.active {
+    position: relative;
+  }
+
+  .category-flex ul.category__inner li.active:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: -1px;
+    width: 100%;
+    bottom: 0;
+    background-color: #fff;
+    z-index: -1;
+    box-shadow: 0px 4px 9px 0px rgba(73, 73, 73, 0.75);
+  }
+
+  .category-flex ul.category__inner li.active .category__top a:after {
+    z-index: 0;
+  }
+
+  .category-flex ul.category__inner li.active > .category__top a {
+    color: #4641fd;
+  }
+
+  .category-flex ul.category__inner li a:after {
+    left: 67px;
+    right: -22px;
+  }
+
+  .category-flex ul.category__inner li ul li a:after {
+    left: 0;
+    right: 18px;
+  }
+
+  .category-flex ul.category__inner li ul li {
+    padding-left: 67px;
+
+  }
+
+  .category-flex ul li.category__burger.active > a {
+    color: #4642f2;
+  }
+
+  .category-flex ul li.category__burger.active .category__icon svg {
+    fill: #4642f2;
+  }
+
+
+  .category-container > ul > li ul.category__inner {
+    overflow-y: auto;
+    overflow-x: hidden;
+    width: 100%;
+  }
+
+  .category-flex, .category-container {
+    display: block;
+  }
+
+  .category-flex {
+    height: auto;
+    padding-bottom: 16px;
+  }
+
+  .category-container > ul > li:not(.category__burger) {
+    display: none;
+  }
+
+  .category-flex ul li a:before {
+    display: none;
+  }
+
+  .category__inner {
+    max-height: 60vh;
+  }
 
 }
 
@@ -1549,6 +1858,16 @@
 .category-clothes .category-img img {
     max-height: 70px;
     width: auto;
+}
+
+.banner-apple-mob .banner-img {
+    left: 0;
+    top: 36px;
+}
+
+.banner-smart-mob .banner-img {
+    left: 0;
+    top: 30px;
 }
 
 }
@@ -2774,6 +3093,106 @@
 .banner-clothing .banner-img img {
     max-width: none;
     height: 128px;
+}
+
+.banner-panasonic .banner-img {
+    left: -25px;
+}
+
+.banner-bosh .banner-img {
+    left: -25px;
+}
+
+.banner-philips .banner-img {
+    left: -25px;
+}
+
+.banner-polaris .banner-img {
+    left: -25px;
+}
+
+.banner-redmond .banner-img {
+    left: -25px;
+}
+
+.banner-vitek .banner-img {
+    left: -25px;
+}
+
+.banner-appliances .banner-img {
+    left: -25px;
+}
+
+.banner-acer .banner-img {
+    left: -25px;
+}
+
+.banner-apple .banner-img {
+    left: -25px;
+    top: 33px;
+}
+
+.banner-asus .banner-img {
+    left: -25px;
+}
+
+.banner-desctop .banner-img {
+    left: -25px;
+    top: 34px;
+}
+
+.banner-desctop-tablet .banner-img {
+    left: -25px;
+}
+
+.banner-tablets .banner-img {
+    left: 0px;
+}
+
+.banner-tablets .banner-img img{
+  width: 100%;
+}
+
+.banner-apple-mob .banner-img {
+    left: -25px;
+}
+
+.banner-nokia .banner-img {
+    left: -25px;
+}
+
+.banner-samsung .banner-img {
+    left: -25px;
+}
+
+.banner-smart .banner-img {
+    left: -25px;
+    top: 37px;
+}
+
+.banner-smart-mob .banner-img {
+    left: -25px;
+}
+
+.banner-phone .banner-img {
+    left: -25px;
+    top: 26px;
+}
+
+.banner-auto .banner-img {
+    left: -25px;
+}
+
+.banner-game .banner-img {
+    left: -25px;
+}
+
+.banner-watch .banner-img {
+    left: -25px;
+}
+
+.banner-electronics .banner-img {
+    left: -25px;
 }
 
 }
