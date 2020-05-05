@@ -1451,6 +1451,28 @@
     max-height: 60vh;
   }
 
+
+.banner-appliances {
+    padding: 19px 0 20px;
+}
+
+.banner-desctop-tablet {
+    padding: 19px 0 20px;
+}
+
+.banner-phone {
+    padding: 19px 0 20px;
+}
+
+.banner-electronics{
+  padding: 19px 0 20px;
+}
+
+.banner-foto-video{
+  padding: 19px 0 20px;
+}
+
+
 }
 
 

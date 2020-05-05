@@ -3682,7 +3682,7 @@ list-style: none;
 
 .banner-phone .banner-img {
     left: 115px;
-    top: -53px;
+    top: 0px;
 }
 
 .banner-auto .banner-img {
@@ -3736,7 +3736,25 @@ list-style: none;
     top: -48px;
 }
 
+.banner-appliances {
+    padding: 19px 0 75px;
+}
 
+.banner-desctop-tablet {
+    padding: 19px 0 75px;
+}
+
+.banner-phone {
+    padding: 19px 0 75px;
+}
+
+.banner-electronics{
+  padding: 19px 0 75px;
+}
+
+.banner-foto-video{
+  padding: 19px 0 75px;
+}
 
 /*======== end Banners ========*/
 
