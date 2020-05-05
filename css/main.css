@@ -378,7 +378,7 @@ text-decoration: underline;
 }
 
 .detail-right {
-    padding-left: 20px;
+    padding: 0 1px 0 20px;
 }
 
 .slick-slider .slider-img{
@@ -475,8 +475,10 @@ top: 50%;
 }
 
 .bottom-offer {
-    background-color: rgba(48, 213, 200, 0.6);
+    background-color: #4641fd;
     padding: 3px 2px 1px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
 
@@ -1014,7 +1016,7 @@ border: 1px solid #4641fd;
 }
 
 .product-info li{
-color: #4641fd;
+color: #ffffff;
 font-size: 16px;
 display: flex;
 justify-content: flex-start;
@@ -1386,10 +1388,18 @@ font-size: 18px;
     margin: -48px 0 0;
 }
 
-.category-group{
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
+.category-group {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.category-group div{
+    margin-right: 20px;
+}
+
+.category-group div:last-child{
+    margin-right: 0;
 }
 
 .sort-block {
@@ -1564,18 +1574,18 @@ font-size: 18px;
 /*======== end Landing ========*/
 
 .top-section {
-    padding: 0 0 0;
+    padding: 59px 0 0;
     overflow: hidden;
 }
 
 .top-section h1 {
-    font-size: 48px;
-    color: rgb(70, 67, 242);
-    font-weight: bold;
+    font-size: 34px;
+    color: #4643f2;
+    font-weight: 500;
     text-transform: uppercase;
     line-height: 1.2;
     letter-spacing: 1.2px;
-    margin: 0 0 5px;
+    margin: 0 0 30px;
 }
 
 .top-block {
@@ -1596,10 +1606,11 @@ font-size: 18px;
 .top-section h3 {
     font-size: 28px;
     text-transform: uppercase;
-    line-height: 1.7;
+    line-height: 1.4;
     color: #3b3b3b;
-    letter-spacing: 0.7px;
+    letter-spacing: .7px;
     margin: 0 0 34px;
+    font-weight: 500;
 }
 
 .top-section a.btn {
@@ -1618,7 +1629,7 @@ font-size: 18px;
 }
 
 .landing-category {
-    padding: 171px 0 58px;
+    padding: 71px 0 58px;
 }
 
 .landing-category h2{
