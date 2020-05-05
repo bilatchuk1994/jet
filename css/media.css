@@ -1828,8 +1828,9 @@
 .banner h3:before {
     content: url(../img/small-money.png);
     position: absolute;
-    bottom: -14px;
-    right: 101px;
+    bottom: auto;
+    right: -25px;
+    top: 0;
 }
 
 .banner-shoes h3:before {
