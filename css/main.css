@@ -3885,7 +3885,7 @@ list-style: none;
   top: 0;
   opacity: 0;
   visibility: hidden;
-  height: 100%;
+  min-height: 100%;
 }
 
 .category-flex ul.category__inner > li > .category__top a:before, .category-flex ul.category__inner > li > a:before {
