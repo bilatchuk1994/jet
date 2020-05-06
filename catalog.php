@@ -106,7 +106,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-6">
-				<button class="filter-select"><img src="img/down-arrow.svg" alt="">Все категории</button>
+				<button class="filter-select"><img src="img/down-arrow.svg" alt="">Каталог</button>
 			</div>
 			<div class="col-6">
 				<button class="filter-mob-btn"><img src="img/settings.svg" alt="">Фильтр</button>

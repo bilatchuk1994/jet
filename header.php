@@ -125,3 +125,255 @@
 	</div>
 </header>
 	
+
+<!-- <div class="mob-catalog-menu">
+	<div class="category-flex">
+		<div>
+			
+		
+	  <div class="category-container">
+
+    <ul>
+      <li class="category__burger">
+        <ul class="category__inner">
+          <li>
+            <div class="category__top">
+              <a href="#">
+                <div class="category__preview">
+                  <img src="icon-menu/img/1.png" alt="alt">
+                </div>
+                <span>Смартфоны и Телефоны</span>
+              </a>
+              <i class="category__arrow">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512.005 512.005"><path d="M388.418 240.923L153.751 6.256c-8.341-8.341-21.824-8.341-30.165 0s-8.341 21.824 0 30.165L343.17 256.005 123.586 475.589c-8.341 8.341-8.341 21.824 0 30.165a21.275 21.275 0 0015.083 6.251 21.277 21.277 0 0015.083-6.251l234.667-234.667c8.34-8.34 8.34-21.823-.001-30.164z"/></svg>
+              </i>
+            </div>
+
+            <ul>
+              <li>
+                <a href="#">
+                  <div class="category__preview">
+                    <img src="icon-menu/img/6.png" alt="alt">
+                  </div>
+                  <span>Платья, костюмы и пиджаки</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <div class="category__top">
+              <a href="#">
+                <div class="category__preview">
+                  <img src="icon-menu/img/2.png" alt="alt">
+                </div>
+                <span>Одежда и обувь</span>
+              </a>
+              <i class="category__arrow">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512.005 512.005"><path d="M388.418 240.923L153.751 6.256c-8.341-8.341-21.824-8.341-30.165 0s-8.341 21.824 0 30.165L343.17 256.005 123.586 475.589c-8.341 8.341-8.341 21.824 0 30.165a21.275 21.275 0 0015.083 6.251 21.277 21.277 0 0015.083-6.251l234.667-234.667c8.34-8.34 8.34-21.823-.001-30.164z"/></svg>
+              </i>
+            </div>
+
+            <ul>
+              <li>
+                <a href="#">
+                  <div class="category__preview">
+                    <img src="icon-menu/img/6.png" alt="alt">
+                  </div>
+                  <span>Платья, костюмы и пиджаки</span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <div class="category__preview">
+                    <img src="icon-menu/img/7.png" alt="alt">
+                  </div>
+                  <span>Джинсы и штаны</span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <div class="category__preview">
+
+                    <img src="icon-menu/img/8.png" alt="alt">
+                  </div>
+                  <span>Майки, байки, свитера и
+рубашки</span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+
+                  <div class="category__preview">
+
+                    <img src="icon-menu/img/9.png" alt="alt">
+                  </div>
+                  <span>Обувь</span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+
+                  <div class="category__preview">
+
+                    <img src="icon-menu/img/10.png" alt="alt">
+                  </div>
+                  <span>Верхняя одежда</span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+
+                  <div class="category__preview">
+
+                    <img src="icon-menu/img/11.png" alt="alt">
+                  </div>
+                  <span>Сумки, очки и аксессуары</span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+
+                  <div class="category__preview">
+
+                    <img src="icon-menu/img/11.png" alt="alt">
+                  </div>
+                  <span>Сумки, очки и аксессуары</span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+
+                  <div class="category__preview">
+
+                    <img src="icon-menu/img/11.png" alt="alt">
+                  </div>
+                  <span>Сумки, очки и аксессуары</span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+
+                  <div class="category__preview">
+
+                    <img src="icon-menu/img/11.png" alt="alt">
+                  </div>
+                  <span>Сумки, очки и аксессуары</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <div class="category__top">
+              <a href="#">
+                <div class="category__preview">
+
+                  <img src="icon-menu/img/3.png" alt="alt">
+                </div>
+                <span>Бытовая техника</span>
+              </a>
+              <i class="category__arrow">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512.005 512.005"><path d="M388.418 240.923L153.751 6.256c-8.341-8.341-21.824-8.341-30.165 0s-8.341 21.824 0 30.165L343.17 256.005 123.586 475.589c-8.341 8.341-8.341 21.824 0 30.165a21.275 21.275 0 0015.083 6.251 21.277 21.277 0 0015.083-6.251l234.667-234.667c8.34-8.34 8.34-21.823-.001-30.164z"/></svg>
+              </i>
+            </div>
+
+            <ul>
+              <li>
+                <a href="#">
+                  <div class="category__preview">
+
+                    <img src="img/6.png" alt="alt">
+                  </div>
+                  <span>Платья, костюмы и пиджаки</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <div class="category__top">
+              <a href="#">
+                <div class="category__preview">
+
+                  <img src="img/4.png" alt="alt">
+                </div>
+                <span>Ноутбуки и планшеты</span>
+              </a>
+              <i class="category__arrow">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512.005 512.005"><path d="M388.418 240.923L153.751 6.256c-8.341-8.341-21.824-8.341-30.165 0s-8.341 21.824 0 30.165L343.17 256.005 123.586 475.589c-8.341 8.341-8.341 21.824 0 30.165a21.275 21.275 0 0015.083 6.251 21.277 21.277 0 0015.083-6.251l234.667-234.667c8.34-8.34 8.34-21.823-.001-30.164z"/></svg>
+              </i>
+            </div>
+
+            <ul>
+              <li>
+                <a href="#">
+                  <div class="category__preview">
+
+                    <img src="img/6.png" alt="alt">
+                  </div>
+                  <span>Платья, костюмы и пиджаки</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <div class="category__top">
+              <a href="#">
+                <div class="category__preview">
+
+                  <img src="img/5.png" alt="alt">
+                </div>
+                <span>Фото, Аудио и
+Видео техника</span>
+              </a>
+              <i class="category__arrow">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512.005 512.005"><path d="M388.418 240.923L153.751 6.256c-8.341-8.341-21.824-8.341-30.165 0s-8.341 21.824 0 30.165L343.17 256.005 123.586 475.589c-8.341 8.341-8.341 21.824 0 30.165a21.275 21.275 0 0015.083 6.251 21.277 21.277 0 0015.083-6.251l234.667-234.667c8.34-8.34 8.34-21.823-.001-30.164z"/></svg>
+              </i>
+            </div>
+
+            <ul>
+              <li>
+                <a href="#">
+                  <div class="category__preview">
+
+                    <img src="img/6.png" alt="alt">
+                  </div>
+                  <span>Платья, костюмы и пиджаки</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <div class="category__top">
+              <a href="#">
+                <div class="category__preview">
+
+                  <img src="img/6.png" alt="alt">
+                </div>
+                <span>Гаджеты</span>
+              </a>
+              <i class="category__arrow">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512.005 512.005"><path d="M388.418 240.923L153.751 6.256c-8.341-8.341-21.824-8.341-30.165 0s-8.341 21.824 0 30.165L343.17 256.005 123.586 475.589c-8.341 8.341-8.341 21.824 0 30.165a21.275 21.275 0 0015.083 6.251 21.277 21.277 0 0015.083-6.251l234.667-234.667c8.34-8.34 8.34-21.823-.001-30.164z"/></svg>
+              </i>
+            </div>
+
+            <ul>
+              <li>
+                <a href="#">
+                  <div class="category__preview">
+
+                    <img src="img/6.png" alt="alt">
+                  </div>
+                  <span>Платья, костюмы и пиджаки</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+
+
+
+      </li>
+     </ul></div>
+</div>
+
+</div>
+	</div> -->
