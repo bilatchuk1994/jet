@@ -154,8 +154,9 @@
     font-size: 42px;
   }
 
-  .top-section h3 {
+.top-section .top-subtitle h3 {
     font-size: 22px;
+    width: 100%;
   }
 
   .landing-why h3 {
@@ -2389,7 +2390,7 @@
     margin: 0 0 35px;
   }
 
-  .top-section h3 {
+.top-section .top-subtitle h3 {
     font-size: 18px;
     line-height: 1.2;
     margin: 0 0 43px;

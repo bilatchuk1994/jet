@@ -1574,8 +1574,12 @@ font-size: 18px;
 /*======== end Landing ========*/
 
 .top-section {
-    padding: 59px 0 0;
+    padding: 59px 0 71px;
     overflow: hidden;
+}
+
+.top-section .row{
+    align-items: center;
 }
 
 .top-section h1 {
@@ -1603,19 +1607,20 @@ font-size: 18px;
     padding: 90px 0;
 }
 
-.top-section h3 {
-    font-size: 28px;
+.top-section .top-subtitle h3 {
+    font-size: 24px;
     text-transform: uppercase;
     line-height: 1.4;
     color: #3b3b3b;
     letter-spacing: .7px;
-    margin: 0 0 34px;
+    margin: 0;
     font-weight: 500;
+    width: 80%;
 }
 
 .top-section a.btn {
     width: 241px;
-    margin: 0 0 52px;
+    margin: 0 0 32px;
     letter-spacing: 0.5px;
 }
 
@@ -1629,7 +1634,7 @@ font-size: 18px;
 }
 
 .landing-category {
-    padding: 71px 0 58px;
+    padding: 0 0 58px;
 }
 
 .landing-category h2{

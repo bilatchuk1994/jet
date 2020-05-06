@@ -9,15 +9,17 @@
 	<div class="row">
 		<div class="col-lg-6">
 			<div class="top-text">
-			<h1>ЗАРАБАТЫВАЙ И ЭКОНОМЬ ДО 90%</h1>
-			<h3>покупая товары ликвидаций крупнейших ритейлеров</h3>
+			<h1>МАРКЕТПЛЕЙС ЛИКВИДАЦИЙ ТОВАРОВ КРУПНЕЙШИХ РИТЕЙЛЕРОВ</h1>
+			
 			<div class="d-block d-sm-none">
 				<div class="top-phone">
 					<img src="img/top-phone-img.png" alt="">
 				</div>
 			</div>
 			<a class="btn" href="">Смотреть в лот</a>
-			<h6>большие покупки, большая выгода</h6>
+			<div class="top-subtitle">
+				<h3>ПОКУПАЙ ВЫГОДНО И ЗАРАБАТЫВАЙ ОТ 100% ПРИБЫЛИ НА ИХ ПЕРЕПРОДАЖЕ</h3>
+			</div>
 			</div>
 		</div>
 		<div class="col-lg-6">
