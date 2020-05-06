@@ -309,14 +309,14 @@
 							<div class="row product-row">
 								<div class="col-6 col-lg-5 col-md-5">
 									<div class="product-img-flex">
-									<a href class="product-big-img object-fit">
+									<a href class="product-big-img">
 										<img class="lazyload" data-src="img/product-img.jpg" alt="">
 									</a>
 									<div>
-										<a href="" class="small-img object-fit">
+										<a href="" class="small-img">
 										<img class="lazyload" data-src="img/product-img.jpg" alt="">
 									</a>
-									<a href="" class="small-img object-fit">
+									<a href="" class="small-img">
 										<img class="lazyload" data-src="img/product-img.jpg" alt="">
 									</a>
 									</div>
@@ -369,14 +369,14 @@
 							<div class="row product-row">
 								<div class="col-6 col-lg-5 col-md-5">
 									<div class="product-img-flex">
-									<a href class="product-big-img object-fit">
+									<a href class="product-big-img">
 										<img class="lazyload" data-src="img/product-img.jpg" alt="">
 									</a>
 									<div>
-										<a href="" class="small-img object-fit">
+										<a href="" class="small-img">
 										<img class="lazyload" data-src="img/product-img.jpg" alt="">
 									</a>
-									<a href="" class="small-img object-fit">
+									<a href="" class="small-img">
 										<img class="lazyload" data-src="img/product-img.jpg" alt="">
 									</a>
 									</div>
