@@ -181,12 +181,199 @@
 
 <div id="popup-table" class="white-popup mfp-hide mfp-with-anim">
   <div class="popup-table-inner">
+  	<div class="popup-scroll">
   	<table>
   		<tr>
   			<th>Товар</th>
   			<th>Кол-во</th>
   			<th>Розничная цена</th>
   			<th>Общая розничная цена</th>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
   		</tr>
   		<tr>
   			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
@@ -243,12 +430,14 @@
   			<th class="bottom-table">174 905 р.</th>
   		</tr>
   	</table>
+  	</div>
   	<h3>Текущая ставка 4,400 руб. / 34 - 1 ед</h3>
   	<div class="flex-center">
   		<div>
   			<a class="flex-center" href="">СДЕЛАТЬ СТАВКУ</a>
   		</div>
   	</div>
+
   	<div class="close-btn">
   		<img src="img/close-popup.png" alt="">
   	</div>
