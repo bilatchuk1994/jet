@@ -38,7 +38,7 @@
       </div>
       <div class="col-4 col-lg-5 col-md-4">
         <div class="banner-img">
-          <img src="img/category-img.png" alt="">
+          <img class="lazyload" data-src="img/category-img.png" alt="">
         </div>
       </div>
     </div>
@@ -310,14 +310,14 @@
 								<div class="col-6 col-lg-5 col-md-5">
 									<div class="product-img-flex">
 									<a href class="product-big-img object-fit">
-										<img src="img/product-img.jpg" alt="">
+										<img class="lazyload" data-src="img/product-img.jpg" alt="">
 									</a>
 									<div>
 										<a href="" class="small-img object-fit">
-										<img src="img/product-img.jpg" alt="">
+										<img class="lazyload" data-src="img/product-img.jpg" alt="">
 									</a>
 									<a href="" class="small-img object-fit">
-										<img src="img/product-img.jpg" alt="">
+										<img class="lazyload" data-src="img/product-img.jpg" alt="">
 									</a>
 									</div>
 									</div>
@@ -370,14 +370,14 @@
 								<div class="col-6 col-lg-5 col-md-5">
 									<div class="product-img-flex">
 									<a href class="product-big-img object-fit">
-										<img src="img/product-img.jpg" alt="">
+										<img class="lazyload" data-src="img/product-img.jpg" alt="">
 									</a>
 									<div>
 										<a href="" class="small-img object-fit">
-										<img src="img/product-img.jpg" alt="">
+										<img class="lazyload" data-src="img/product-img.jpg" alt="">
 									</a>
 									<a href="" class="small-img object-fit">
-										<img src="img/product-img.jpg" alt="">
+										<img class="lazyload" data-src="img/product-img.jpg" alt="">
 									</a>
 									</div>
 									</div>

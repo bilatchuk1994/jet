@@ -85,27 +85,27 @@
 				<div class="slick-slider">
 					<div class="item">
 						<div class="slider-img object-fit">
-							<img src="img/slider-img.jpg" alt="">
+							<img  class="lazyload" data-src="img/slider-img.jpg" alt="">
 						</div>
 					</div>
 					<div class="item">
 						<div class="slider-img object-fit">
-							<img src="img/slider-img.jpg" alt="">
+							<img class="lazyload" data-src="img/slider-img.jpg" alt="">
 						</div>
 					</div>
 					<div class="item">
 						<div class="slider-img object-fit">
-							<img src="img/slider-img.jpg" alt="">
+							<img class="lazyload" data-src="img/slider-img.jpg" alt="">
 						</div>
 					</div>
 					<div class="item">
 						<div class="slider-img object-fit">
-							<img src="img/slider-img.jpg" alt="">
+							<img class="lazyload" data-src="img/slider-img.jpg" alt="">
 						</div>
 					</div>
 					<div class="item">
 						<div class="slider-img object-fit">
-							<img src="img/slider-img.jpg" alt="">
+							<img class="lazyload" data-src="img/slider-img.jpg" alt="">
 						</div>
 					</div>
 				</div>
@@ -113,27 +113,27 @@
 				<div class="slick-thumbs">
 					<div class="item">
 						<div class="slider-img object-fit">
-							<img src="img/slider-img.jpg" alt="">
+							<img class="lazyload" data-src="img/slider-img.jpg" alt="">
 						</div>
 					</div>
 					<div class="item">
 						<div class="slider-img object-fit">
-							<img src="img/slider-img.jpg" alt="">
+							<img class="lazyload" data-src="img/slider-img.jpg" alt="">
 						</div>
 					</div>
 					<div class="item">
 						<div class="slider-img object-fit">
-							<img src="img/slider-img.jpg" alt="">
+							<img class="lazyload" data-src="img/slider-img.jpg" alt="">
 						</div>
 					</div>
 					<div class="item">
 						<div class="slider-img object-fit">
-							<img src="img/slider-img.jpg" alt="">
+							<img class="lazyload" data-src="img/slider-img.jpg" alt="">
 						</div>
 					</div>
 					<div class="item">
 						<div class="slider-img object-fit">
-							<img src="img/slider-img.jpg" alt="">
+							<img class="lazyload" data-src="img/slider-img.jpg" alt="">
 						</div>
 					</div>
 				</div>
