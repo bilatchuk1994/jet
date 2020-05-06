@@ -234,7 +234,6 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
 .product-images{width:55px;height:55px;margin-right:15px}
 .sticky-product{padding:17px 0 15px}
 .banner-hot .banner-img{top:0}
-.banner-hot .banner-img img{width:110%}
 .product-block .like-product{right:-10px;top:70px}
 .thank-product h2 br{display:none}
 .catalog-content{overflow:hidden}
@@ -282,7 +281,16 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
 .banner-tablets .banner-img{left:0;top:0}
 .banner-apple-mob .banner-img{left:0;top:22px}
 .banner-nokia .banner-img{left:0;top:37px}
-.banner-samsung .banner-img{left:0;top:38px}
+.banner-samsung .banner-img {
+    left: 0;
+    top: -96px;
+    position: absolute;
+}
+.banner-samsung .banner-img img {
+    width: auto;
+    max-width: initial;
+    height: 193px;
+}
 .banner-smart .banner-img{left:0;top:37px}
 .banner-smart-mob .banner-img{left:0;top:27px}
 .banner-phone .banner-img{left:0;top:27px}
@@ -497,6 +505,31 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
 }
 .popup-scroll table{
   width: 500px;
+}
+
+.banner-samsung .banner-img {
+    top: -69px;
+    left: 17px;
+}
+
+.banner-samsung .banner-img img {
+    height: 146px;
+}
+
+.banner-foto h3{
+  padding-right: 10px;
+}
+
+.banner-foto-video .banner-img {
+    left: 10px;
+}
+
+.banner-auto .banner-img {
+    left: 15px;
+}
+
+.banner-auto  h3:before {
+    right: -30px;
 }
 
 }
@@ -749,8 +782,17 @@ ul.slick-dots li button{height:10px;width:10px;margin:0 3px}
 .banner-dress .banner-img{left:-30px}
 .banner-bag .banner-img{left:-30px;top:33px}
 .banner-fashion .banner-img{left:-30px;top:31px}
-.banner h3:before{bottom:auto;right:-20px;top:-2px}
-.banner h3{font-size:14px;width:95%;margin:0 0 10px}
+.banner h3:before {
+    bottom: auto;
+    right: -30px;
+    top: -2px;
+}
+.banner h3 {
+    font-size: 14px;
+    width: 100%;
+    margin: 0 0 10px;
+    max-width: 190px;
+}
 .banner{padding:15px 0 26px}
 .banner-clothing .banner-img{top:-59px;left:-10px}
 .banner-clothing .banner-img img{max-width:none;height:128px}
@@ -805,6 +847,15 @@ ul.slick-dots li button{height:10px;width:10px;margin:0 3px}
     text-align: center;
 }
 
+.banner-samsung .banner-img img {
+    height: 130px;
+}
+
+.banner-samsung .banner-img {
+    left: -5px;
+    top: -60px;
+}
+
 }
 
 
@@ -846,6 +897,49 @@ ul.slick-dots li button{height:10px;width:10px;margin:0 3px}
 .banner-desctop .banner-img{top:36px}
 .banner-apple-mob .banner-img{top:43px}
 .banner-nokia .banner-img{top:43px}
-.banner-samsung .banner-img{left:-25px;top:43px}
+.banner-samsung .banner-img {
+    left: 7px;
+    top: -55px;
+}
+.banner-samsung .banner-img img {
+    height: 122px;
+}
 .banner-column .banner-img{top:42px}
+.banner-panasonic .banner-img {
+    left: -20px;
+    top: 8px;
+}
+.banner-redmond .banner-img {
+    left: -20px;
+    top: 10px;
+}
+.banner-vitek .banner-img {
+    left: -20px;
+    top: 10px;
+}
+.banner-appliances .banner-img {
+    left: -20px;
+    top: 10px;
+}
+.banner-desctop-tablet .banner-img {
+    left: -20px;
+    top: 10px;
+}
+.banner-auto .banner-img {
+    left: -20px;
+    top: 10px;
+}
+.banner-game .banner-img {
+    left: -10px;
+}
+.banner-headphones .banner-img {
+    top: 10px;
+}
+.banner-foto-video .banner-img {
+    left: -10px;
+    top: 16px;
+}
+.banner-hot .banner-img {
+    top: 10px;
+}
 }
