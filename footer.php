@@ -189,49 +189,49 @@
   			<th>Общая розничная цена</th>
   		</tr>
   		<tr>
-  			<td><span><img src="img/table-icon.png" alt="">Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
   			<td>1</td>
   			<td>34981 р</td>
   			<td>34981 р</td>
   		</tr>
   		<tr>
-  			<td><span><img src="img/table-icon.png" alt="">Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
   			<td>1</td>
   			<td>34981 р</td>
   			<td>34981 р</td>
   		</tr>
   		<tr>
-  			<td><span><img src="img/table-icon.png" alt="">Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
   			<td>1</td>
   			<td>34981 р</td>
   			<td>34981 р</td>
   		</tr>
   		<tr>
-  			<td><span><img src="img/table-icon.png" alt="">Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
   			<td>1</td>
   			<td>34981 р</td>
   			<td>34981 р</td>
   		</tr>
   		<tr>
-  			<td><span><img src="img/table-icon.png" alt="">Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
   			<td>1</td>
   			<td>34981 р</td>
   			<td>34981 р</td>
   		</tr>
   		<tr>
-  			<td><span><img src="img/table-icon.png" alt="">Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
   			<td>1</td>
   			<td>34981 р</td>
   			<td>34981 р</td>
   		</tr>
   		<tr>
-  			<td><span><img src="img/table-icon.png" alt="">Ноутбук ASUS X556UB-XO035T ASUS X556UB-XO035T Ноутбук ASUS X556UB-XO035T Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td><span><div><div class="lot-preview"></div></div>Ноутбук ASUS X556UB-XO035T ASUS X556UB-XO035T Ноутбук ASUS X556UB-XO035T Ноутбук ASUS X556UB-XO035T</span></td>
   			<td>1</td>
   			<td>34981 р</td>
   			<td>34981 р</td>
   		</tr>
   		<tr>
-  			<td><span><img src="img/table-icon.png" alt="">Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td><span><div><div class="lot-preview"><img src="img/table-icon.png" alt=""></div></div>Ноутбук ASUS X556UB-XO035T</span></td>
   			<td>1</td>
   			<td>34981 р</td>
   			<td>34981 р</td>
@@ -243,6 +243,7 @@
   			<th class="bottom-table">174 905 р.</th>
   		</tr>
   	</table>
+  	<h3>Текущая ставка 4,400 руб. / 34 - 1 ед</h3>
   	<div class="flex-center">
   		<div>
   			<a class="flex-center" href="">СДЕЛАТЬ СТАВКУ</a>

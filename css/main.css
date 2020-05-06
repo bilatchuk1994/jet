@@ -4057,7 +4057,6 @@ list-style: none;
 
 .popup-table-inner table td img {
     width: 34px;
-    margin-right: 44px;
 }
 
 .popup-table-inner table td span {
@@ -4101,7 +4100,16 @@ list-style: none;
     cursor: pointer;
 }
 
+.lot-preview{
+    width: 34px;
+    height: 32px;
+    margin-right: 44px;
+}
 
+.popup-table-inner h3{
+    margin-bottom: 10px;
+    text-align: center;
+}
 
 /*======== end Popup-table ========*/
 
