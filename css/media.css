@@ -1297,7 +1297,7 @@
 
 .banner-phone .banner-img {
     left: 0;
-    top: 23px;
+    top: 27px;
 }
 
 .banner-auto .banner-img {
@@ -1832,7 +1832,7 @@
 }
 
 .banner-fashion .banner-img {
-    top: 31px;
+    top: 32px;
     left: 0;
 }
 
@@ -3094,8 +3094,10 @@
 
 .banner-fashion .banner-img {
     left: -30px;
-    top: 30px;
+    top: 31px;
 }
+
+
 
 .banner h3:before {
     bottom: auto;
@@ -3204,7 +3206,7 @@
 
 .banner-phone .banner-img {
     left: -25px;
-    top: 26px;
+    top: 31px;
 }
 
 .banner-auto .banner-img {

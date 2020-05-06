@@ -20,7 +20,7 @@
 <!-- Битовуха -->
 
 
-<section style="background-color: #2a70a8" class="banner banner-bosh">
+<section class="banner banner-bosh">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -50,7 +50,7 @@
 </section>
 
 
-<section style="background-color: #ede5d0" class="banner banner-black banner-panasonic">
+<section class="banner banner-black banner-panasonic">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -79,7 +79,7 @@
   </div>
 </section>
 
-<section style="background-color: #1476c6" class="banner banner-philips">
+<section class="banner banner-philips">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -109,7 +109,7 @@
 </section>
 
 
-<section style="background-color: #4641fd" class="banner banner-polaris">
+<section class="banner banner-polaris">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -139,7 +139,7 @@
 </section>
 
 
-<section style="background-color: #d0704a" class="banner banner-redmond">
+<section class="banner banner-redmond">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -169,7 +169,7 @@
 </section>
 
 
-<section style="background-color: #7868f8" class="banner banner-vitek">
+<section  class="banner banner-vitek">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -198,7 +198,7 @@
   </div>
 </section>
 
-<section style="background-color: #a75e60" class="banner banner-appliances">
+<section  class="banner banner-appliances">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -241,7 +241,7 @@
 
 <!-- Ноуты -->
 
-<section style="background-color: #fbc300" class="banner banner-acer">
+<section  class="banner banner-acer">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -271,7 +271,7 @@
 </section>
 
 
-<section style="background-color: #0053ae" class="banner banner-apple">
+<section class="banner banner-apple">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -300,7 +300,7 @@
   </div>
 </section>
 
-<section style="background-color: #4641fd" class="banner banner-asus">
+<section class="banner banner-asus">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -329,7 +329,7 @@
   </div>
 </section>
 
-<section style="background-color: #526b5a" class="banner banner-desctop">
+<section class="banner banner-desctop">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -358,7 +358,7 @@
   </div>
 </section>
 
-<section style="background-color: #4946b7" class="banner banner-desctop-tablet">
+<section class="banner banner-desctop-tablet">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -387,7 +387,7 @@
   </div>
 </section>
 
-<section style="background-color: #6617c1" class="banner banner-tablets">
+<section  class="banner banner-tablets">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -432,7 +432,7 @@
 
 
 <!-- ТЕЛФОНЫ И СМАРТФОНЫ -->
-<section style="background-color: #d7d2e0" class="banner banner-black banner-apple-mob">
+<section  class="banner banner-black banner-apple-mob">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -461,7 +461,7 @@
   </div>
 </section>
 
-<section style="background-color: #7b7167" class="banner banner-nokia">
+<section  class="banner banner-nokia">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -491,7 +491,7 @@
 </section>
 
 
-<section style="background-color: #827758" class="banner banner-samsung">
+<section  class="banner banner-samsung">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -520,7 +520,7 @@
   </div>
 </section>
 
-<section style="background-color: #4f2a5b" class="banner banner-smart">
+<section  class="banner banner-smart">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -550,7 +550,7 @@
 </section>
 
 
-<section style="background-color: #542eb3" class="banner banner-smart-mob">
+<section class="banner banner-smart-mob">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -580,7 +580,7 @@
 </section>
 
 
-<section style="background-color: #7592f1"  class="banner banner-phone">
+<section  class="banner banner-phone">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -624,7 +624,7 @@
 
 
 <!-- Умные часы, Игровые приставки и Автомобильная электроника -->
-<section style="background-color: #45bdfa"   class="banner banner-auto">
+<section   class="banner banner-auto">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -654,7 +654,7 @@
 </section>
 
 
-<section style="background-color: #8c7a4e"  class="banner banner-game">
+<section  class="banner banner-game">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -684,7 +684,7 @@
 </section>
 
 
-<section style="background-color: #ebebeb"  class="banner banner-black banner-watch">
+<section  class="banner banner-black banner-watch">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -714,7 +714,7 @@
 </section>
 
 
-<section style="background-color: #838983"   class="banner banner-electronics">
+<section  class="banner banner-electronics">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -756,7 +756,7 @@
 
 
 <!-- Фото, Аудио -->
-<section style="background-color: #1c5fb6"   class="banner banner-photo">
+<section  class="banner banner-photo">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -786,7 +786,7 @@
 </section>
 
 
-<section style="background-color:  #e4a647"  class="banner banner-headphones">
+<section  class="banner banner-headphones">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -816,7 +816,7 @@
 </section>
 
 
-<section style="background-color: #583667"   class="banner banner-audio">
+<section   class="banner banner-audio">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -845,7 +845,7 @@
   </div>
 </section>
 
-<section style="background-color: #90338e"  class="banner banner-column">
+<section  class="banner banner-column">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -875,7 +875,7 @@
 </section>
 
 
-<section style="background-color: #4fcf9a"   class="banner banner-black banner-foto">
+<section class="banner banner-black banner-foto">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -905,7 +905,7 @@
 </section>
 
 
-<section style="background-color: #fdca4b"   class="banner banner-black banner-foto-video">
+<section  class="banner banner-black banner-foto-video">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">

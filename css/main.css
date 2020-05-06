@@ -3761,6 +3761,122 @@ list-style: none;
   padding: 19px 0 75px;
 }
 
+.banner-bosh {
+    background-color: #2a70a8;
+  }
+
+.banner-panasonic {
+    background-color: #ede5d0;
+  }
+  
+.banner-philips {
+    background-color: #1476c6;
+  }
+  
+.banner-polaris {
+    background-color: #4641fd;
+  }
+  
+  .banner-redmond {
+    background-color: #d0704a;
+  }
+
+  .banner-vitek {
+    background-color: #7868f8;
+  }
+
+  .banner-appliances {
+    background-color: #a75e60;
+  }
+  
+  .banner-acer {
+    background-color: #fbc300;
+  }
+  
+  .banner-apple {
+    background-color: #0053ae;
+  }
+  
+  .banner-asus {
+    background-color: #4641fd;
+  }
+  
+  .banner-desctop {
+    background-color: #526b5a;
+  }
+  
+  .banner-desctop-tablet {
+    background-color: #4946b7;
+  }
+  
+  .banner-tablets {
+    background-color: #6617c1;
+  }
+
+  .banner-apple-mob {
+    background-color: #d7d2e0;
+  }
+
+  .banner-nokia {
+    background-color: #7b7167;
+  }
+
+  .banner-samsung {
+    background-color: #827758;
+  }
+
+  .banner-smart {
+    background-color: #4f2a5b;
+  }
+
+  .banner-smart-mob {
+    background-color: #542eb3;
+  }
+
+  .banner-phone {
+    background-color: #7592f1;
+  }
+
+  .banner-auto {
+    background-color: #45bdfa;
+  }
+
+  .banner-game {
+    background-color: #8c7a4e;
+  }
+
+  .banner-watch {
+    background-color: #ebebeb;
+  }
+
+  .banner-electronics {
+    background-color: #838983;
+  }
+
+  .banner-photo {
+    background-color: #1c5fb6;
+  }
+
+  .banner-headphones {
+    background-color: #e4a647;
+  }
+
+.banner-audio {
+    background-color: #583667;
+  }
+
+.banner-column {
+    background-color: #90338e;
+  }
+
+.banner-foto {
+    background-color: #4fcf9a;
+  }
+
+.banner-foto-video {
+    background-color: #fdca4b;
+  }
+
 /*======== end Banners ========*/
 
 
