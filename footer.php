@@ -178,6 +178,82 @@
 		</div>
 </div>
 
+
+<div id="popup-table" class="white-popup mfp-hide mfp-with-anim">
+  <div class="popup-table-inner">
+  	<table>
+  		<tr>
+  			<th>Товар</th>
+  			<th>Кол-во</th>
+  			<th>Розничная цена</th>
+  			<th>Общая розничная цена</th>
+  		</tr>
+  		<tr>
+  			<td><span><img src="img/table-icon.png" alt="">Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><img src="img/table-icon.png" alt="">Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><img src="img/table-icon.png" alt="">Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><img src="img/table-icon.png" alt="">Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><img src="img/table-icon.png" alt="">Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><img src="img/table-icon.png" alt="">Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><img src="img/table-icon.png" alt="">Ноутбук ASUS X556UB-XO035T ASUS X556UB-XO035T Ноутбук ASUS X556UB-XO035T Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<td><span><img src="img/table-icon.png" alt="">Ноутбук ASUS X556UB-XO035T</span></td>
+  			<td>1</td>
+  			<td>34981 р</td>
+  			<td>34981 р</td>
+  		</tr>
+  		<tr>
+  			<th class="bottom-table"><div class="flex-end">Итого:</div></th>
+  			<th class="bottom-table">5</th>
+  			<th class="bottom-table"></th>
+  			<th class="bottom-table">174 905 р.</th>
+  		</tr>
+  	</table>
+  	<div class="flex-center">
+  		<div>
+  			<a class="flex-center" href="">СДЕЛАТЬ СТАВКУ</a>
+  		</div>
+  	</div>
+  	<div class="close-btn">
+  		<img src="img/close-popup.png" alt="">
+  	</div>
+  </div>
+</div>
+
 <!-- Попап для ставок -->
 
 

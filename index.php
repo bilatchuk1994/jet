@@ -143,7 +143,7 @@
 
 					<h1>Гарнитуры для PS4 Pro / PS4. Xbox One &  More. 951 Единицы.</h1>
 					<ul class="product-list">
-						<li><img src="img/paper.svg" alt=""><a href="">ПОСМОТРЕTь ПОЛНУЮ СПЕЦИФИКАЦИЮ</a></li>
+						<li><img src="img/paper.svg" alt=""><a class="popup-btn"  data-effect="mfp-zoom-in" href="#popup-table">ПОСМОТРЕTь ПОЛНУЮ СПЕЦИФИКАЦИЮ</a></li>
 					</ul>
 
 
