@@ -61,7 +61,8 @@ function damaxToggleMenu() {
     });
 
     $(".category-menu-show").click(function() {
-        $(".category-block").slideToggle();
+        $(".category-container").slideToggle();
+        $("body").toggleClass("menu_expand");
     });
 
     $(".filter-mob-btn").click(function() {
@@ -70,7 +71,7 @@ function damaxToggleMenu() {
     });
 
     $(".filter-select").click(function() {
-        $(".filter-select-container").slideToggle();
+        $(".category-container").slideToggle();
         $("body").toggleClass("menu_expand");
     });
 

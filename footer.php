@@ -186,6 +186,7 @@
 	<script src="js/jquery.inputmask.bundle.min.js"></script>
 	<script src="js/lazysizes.min.js"></script>
 	<script src="js/common.js"></script>
+	<script src="js/menu.js"></script>
 	<!-- Yandex.Metrika counter --><!-- /Yandex.Metrika counter -->
 	<!-- Google Analytics counter --><!-- /Google Analytics counter -->
 </body>

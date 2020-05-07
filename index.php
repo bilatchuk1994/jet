@@ -2,7 +2,7 @@
 
 <main class="main">
 
-<div class="sticky-product active">
+<!-- <div class="sticky-product active">
 	<div class="container">
 		<div class="row">
 		<div class="col-lg-6">
@@ -45,7 +45,7 @@
 		</div>
 		</div>
 	</div>
-</div>
+</div> -->
 
 
 
@@ -54,8 +54,8 @@
 		<div class="row d-lg-none">
 			<div class="col-lg-12">
 				<div class="category-menu-show">
-					Все категории <i class="far fa-chevron-down"></i>
-					<div class="category-block">
+					<i class="category__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 469.333 469.333"><path d="M53.333 106.667H416c29.417 0 53.333-23.927 53.333-53.333S445.417 0 416 0H53.333C23.917 0 0 23.927 0 53.333s23.917 53.334 53.333 53.334zM416 181.333H53.333C23.917 181.333 0 205.26 0 234.667S23.917 288 53.333 288H416c29.417 0 53.333-23.927 53.333-53.333S445.417 181.333 416 181.333zM416 362.667H53.333C23.917 362.667 0 386.594 0 416s23.917 53.333 53.333 53.333H416c29.417 0 53.333-23.927 53.333-53.333S445.417 362.667 416 362.667z"></path></svg></i> Каталог
+					<!-- <div class="category-block">
 						<ul>
 								<li><a href="">Скидки и акции</a></li>
 								<li><a href="">электроника</a></li>
@@ -63,7 +63,7 @@
 								<li><a href="">Авто </a></li>
 								<li><a href="">Детские товары</a></li>
 							</ul>
-					</div>
+					</div> -->
 				</div>
 			</div>
 		</div>

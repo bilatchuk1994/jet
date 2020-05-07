@@ -333,6 +333,10 @@ text-decoration: underline;
     text-decoration: none;
 }
 
+.mob-catalog-menu{
+    display: none;
+}
+
 /*======== end Header ========*/
 
 

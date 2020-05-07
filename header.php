@@ -126,7 +126,7 @@
 </header>
 	
 
-<!-- <div class="mob-catalog-menu">
+<div class="mob-catalog-menu">
 	<div class="category-flex">
 		<div>
 			
@@ -135,7 +135,7 @@
 
     <ul>
       <li class="category__burger">
-        <ul class="category__inner">
+        <ul class="category__inner category__inner__mob">
           <li>
             <div class="category__top">
               <a href="#">
@@ -376,4 +376,4 @@
 </div>
 
 </div>
-	</div> -->
+	</div>
