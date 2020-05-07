@@ -1574,7 +1574,7 @@ font-size: 18px;
 /*======== end Landing ========*/
 
 .top-section {
-    padding: 59px 0 71px;
+    padding: 20px 0 71px;
     overflow: hidden;
 }
 
@@ -1594,7 +1594,6 @@ font-size: 18px;
 
 .top-block {
     text-align: right;
-    padding: 55px 0 0;
 }
 
 .top-block .top-img {
