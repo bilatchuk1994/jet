@@ -40,6 +40,50 @@
 </section>
 
 
+<div id="popup-login" class="white-popup mfp-hide mfp-with-anim">
+    <div class="popup-block">
+      <div class="popup-title">
+        <h2>Войдите или зарегистрируйтесь</h2>
+        <p>Чтобы сделать ставку и получить доступ к всем выгодным аукционам ликвидаций - зарегистрируйте пожалуйста свой аккаунт 💸 это полностью бесплатно!</p>
+      </div> 
+      <div>
+        <form method="post" action="https://restocker.ru/login">
+          <input type="email" placeholder="Ваш email" name="email">
+          <button type="submit">Далее</button>
+        </form>
+        <h6>обещаем, никакого спама или рекламы ✌️</h6>
+        <h5>Уже зарегистрированы? <a href="">Войти</a> </h5>
+      </div>
+    </div>
+  </div>
+
+
+<div id="popup-contact" class="white-popup mfp-hide mfp-with-anim">
+    <div class="popup-block">
+      <div class="popup-title">
+        <h2>Введите вашу контактную информацию</h2>
+      </div>
+      <div>
+        <form action="" method="POST">
+          <div class="row">
+            <div class="col-lg-6">
+              <input type="text" placeholder="Ваше имя">
+            </div>
+            <div class="col-lg-6">
+              <input type="text" placeholder="Ваша фамилия">
+            </div>
+          </div>
+          <input type="password" placeholder="Ваш пароль">
+          <div class="input-phone"></div>
+          <button>Продолжить</button>
+        </form>
+      </div>
+      <div class="close-btn">
+          <img src="img/close.svg" alt="">
+        </div>
+    </div>
+  </div>
+
 
 </main>
 

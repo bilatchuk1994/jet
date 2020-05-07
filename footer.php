@@ -84,55 +84,6 @@
 
 
 
-	<div id="popup-login" class="white-popup mfp-hide mfp-with-anim">
-		<div class="popup-block">
-			<div class="popup-title">
-				<h2>Вход</h2>
-			</div> 
-			<div>
-				<form method="post" action="https://restocker.ru/login">
-					<input type="email" placeholder="Ваш email" name="email">
-					<input type="password" placeholder="Ваш пароль" name="password">
-					<input type="hidden" name="remember" value="1">
-					<div class="popup-flex">
-						<div>
-							<a href="">Забыли пароль?</a>
-						</div>
-					</div> 
-					<button type="submit">Войти</button>
-					<a class="popup-link" href="">Зарегистрироваться</a>	 
-				</form>
-			</div>
-		</div>
-	</div>
-
-
-		<div id="popup-contact" class="white-popup mfp-hide mfp-with-anim">
-		<div class="popup-block">
-			<div class="popup-title">
-        <h2>Введите вашу контактную информацию</h2>
-			</div>
-			<div>
-				<form action="" method="POST">
-					<div class="row">
-						<div class="col-lg-6">
-							<input type="text" placeholder="Ваше имя">
-						</div>
-						<div class="col-lg-6">
-							<input type="text" placeholder="Ваша фамилия">
-						</div>
-					</div>
-					<input type="password" placeholder="Ваш пароль">
-					<div class="input-phone"></div>
-					<button>Продолжить</button>
-				</form>
-			</div>
-			<div class="close-btn">
-					<img src="img/close.svg" alt="">
-				</div>
-		</div>
-	</div>
-
 
 <!-- Попап для ставок -->
 
