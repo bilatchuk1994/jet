@@ -2897,7 +2897,7 @@ font-size: 18px;
 
 .product-img-flex img{
     width: auto;
-    height: 70%;
+    height: auto;
 }
 
 
@@ -4628,6 +4628,4 @@ position: relative;
 .mfp-zoom-in.mfp-ready.mfp-bg{opacity:.8}
 .mfp-zoom-in.mfp-removing .mfp-with-anim{transform:scale(0.8);opacity:0}
 .mfp-zoom-in.mfp-removing.mfp-bg{opacity:0}
-
-
 /*======== end Footer ========*/

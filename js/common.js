@@ -95,8 +95,6 @@ jQuery(".phone-input").inputmask({"mask": "+7(999) 999 99 99"});
 
 
 
-
-
 function damaxOwlCarousel() {
 
   var team = $("#product-slider");
