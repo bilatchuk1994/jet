@@ -4527,6 +4527,11 @@ position: relative;
   background-color: #4643F2;
 }
 
+.two-step-popup .step-flex span.step-two{
+color: #4643F2;
+border: 1px solid #4643F2;
+}
+
 #btn-country {
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
