@@ -3871,7 +3871,26 @@ list-style: none;
 
 .banner-foto-video {
     background-color: #fdca4b;
-  }
+}
+
+.banner-catalogs{
+    background-color: #faa933;
+    padding: 19px 0 75px;
+}
+
+.banner-catalogs .banner-img {
+    left: 150px;
+    top: -54px;
+}
+
+.banner-hots{
+    background-color: #007cf6;
+}
+
+.banner-hots .banner-img {
+    left: 81px;
+    top: -54px;
+}
 
 /*======== end Banners ========*/
 
