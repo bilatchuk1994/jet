@@ -910,7 +910,6 @@ text-align: center;
     background-repeat: no-repeat;
     background-size: auto;
     background-position: bottom center;
-    overflow: hidden;
 }
 
 
@@ -4620,6 +4619,10 @@ position: relative;
     display: flex;
     justify-content: flex-end;
     align-items: center;
+}
+
+.v--modal-box.v--modal {
+    padding: 0 8px;
 }
 
 .mfp-zoom-in .mfp-with-anim{opacity:0;transition:all .2s ease-in-out;transform:scale(0.8)}
