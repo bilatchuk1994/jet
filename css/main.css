@@ -2895,9 +2895,9 @@ font-size: 18px;
 }
 
 
-.product-img-flex img{
-    width: auto;
-    height: auto;
+.product-img-flex img {
+    max-width: 95%;
+    max-height: 60%;
 }
 
 
