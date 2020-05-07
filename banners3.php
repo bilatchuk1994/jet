@@ -18,7 +18,7 @@
 
 
 
-<section class="banner banner-black banner-catalogs">
+<section class="banner banner-black banner-hots">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -48,7 +48,7 @@
 </section>
 
 
-<section class="banner banner-hots">
+<section class="banner banner-catalogs">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
