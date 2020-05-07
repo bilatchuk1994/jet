@@ -91,6 +91,9 @@ function damaxToggleMenu() {
 }
 
 
+jQuery(".phone-input").inputmask({"mask": "+7(999) 999 99 99"});
+
+
 
 
 

@@ -4389,10 +4389,22 @@ font-size: 14px;
 .popup-block {
     border-radius: 15px;
     background-color: rgb(255, 255, 255);
-    box-shadow: 0px 4px 9px 0px rgba(73, 73, 73, 0.35);
     max-width: 600px;
     margin: 0 auto;
-    padding: 38px 39px 40px;
+    padding: 43px 39px 45px;
+    position: relative;
+}
+
+.two-step-popup{
+    max-width: 555px;
+    height: 386px;
+}
+
+.popup-block .close-btn {
+    position: absolute;
+    right: 19px;
+    top: 14px;
+    cursor: pointer;
 }
 
 .popup-block h2 {
@@ -4401,17 +4413,22 @@ font-size: 14px;
     font-weight: bold;
     line-height: 1.2;
     text-align: center;
-    letter-spacing: 0.5px;
-    margin: 0 0 20px;
+    margin: 0 0 22px;
 }
 
 .popup-block p {
+    font-style: normal;
+    font-weight: 500;
     font-size: 18px;
-    color: rgb(47, 47, 47);
-    line-height: 1.333;
+    line-height: 23px;
     text-align: center;
-    letter-spacing: 0.5px;
-    margin: 0 0 29px;
+    color: #2F2F2F;
+    margin: 0 0 21px;
+}
+
+.popup-block .form {
+    padding: 0 14px;
+    margin: 0 0 19px;
 }
 
 .popup-block input {
@@ -4424,25 +4441,87 @@ font-size: 14px;
     font-size: 16px;
     color: rgb(146, 152, 159);
     line-height: 1.2;
-    padding-left: 25px;
-    letter-spacing: 0.5px;
-    margin: 0 0 9px;
+    padding-left: 29px;
+    letter-spacing: 0;
+    margin: 0 0 18px;
 }
 
 .popup-block button {
     border-radius: 5px;
     background-color: rgb(70, 67, 242);
-    width: 281px;
-    height: 45px;
+    width: 210px;
+    height: 41px;
     border: 0;
     cursor: pointer;
     display: block;
-    margin: 19px auto 0;
-    font-size: 16px;
+    margin: 2px auto 0;
+    font-size: 15px;
     color: rgb(255, 255, 255);
     font-weight: bold;
     text-transform: uppercase;
-    letter-spacing: 0.9px;
+}
+
+.popup-block h6 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 15px;
+    color: #2F2F2F;
+    text-align: center;
+    margin: 0 0 20px;
+}
+
+.popup-block h5{
+    font-weight: 500;
+font-size: 18px;
+line-height: 19px;
+color: #2F2F2F;
+text-align: center;
+}
+
+.popup-block h5 a{
+    color: #4643F2;
+}
+
+.step-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 14px;
+}
+
+.step-flex span{
+    width: 20px;
+height: 20px;
+background: #FFFFFF;
+border: 1px solid #C4C4C4;
+border-radius: 50%;
+font-weight: bold;
+font-size: 10px;
+color: #C4C4C4;
+position: relative;
+z-index: 9;
+}
+
+.step-flex span.step-one{
+margin-right: 72px;
+color: #4643F2;
+border: 1px solid #4643F2;
+position: relative;
+}
+
+.step-flex span.step-one:before{
+    content: "";
+    height: 1px;
+    width: 75px;
+    background-color: #C4C4C4;
+    left: 19px;
+    position: absolute;
+    top: 50%;
+    z-index: -1;
+}
+
+.two-step-popup .step-flex span.step-one:before{
+  background-color: #4643F2;
 }
 
 #btn-country {

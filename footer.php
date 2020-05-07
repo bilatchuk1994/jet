@@ -183,6 +183,7 @@
 	<script src="libs/slick/slick.min.js"></script>
 	<script src="libs/magnific-popup/jquery.magnific-popup.min.js"></script>
 	<script src="libs/we/js/intlInputPhone.min.js"></script>
+	<script src="js/jquery.inputmask.bundle.min.js"></script>
 	<script src="js/lazysizes.min.js"></script>
 	<script src="js/common.js"></script>
 	<!-- Yandex.Metrika counter --><!-- /Yandex.Metrika counter -->
