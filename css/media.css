@@ -369,8 +369,16 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
     display: none;
 }
 
+.category-flex{
+    display: none;
+}
+
 .mob-catalog-menu{
 	display: block;
+}
+
+.mob-catalog-menu .category-flex{
+    display: block;
 }
 
 .category-container > ul > li ul{
@@ -395,6 +403,13 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
 .banner-catalogs .banner-img {
     left: 0;
     top: 0;
+}
+
+.close-menu {
+    position: absolute;
+    top: -30px;
+    right: 22px;
+    z-index: 99;
 }
 
 }

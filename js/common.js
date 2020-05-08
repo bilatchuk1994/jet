@@ -80,8 +80,8 @@ function damaxToggleMenu() {
         $("body").toggleClass("menu_expand");
     });
 
-    $("#close-select").click(function() {
-        $(".filter-select-container").slideToggle();
+    $(".close-menu").click(function() {
+        $(".category-container").slideToggle();
         $("body").toggleClass("menu_expand");
     });
 

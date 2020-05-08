@@ -126,13 +126,19 @@
 </header>
 	
 
+<!-- Меню для моб -->
+
 <div class="mob-catalog-menu">
 	<div class="category-flex">
 		<div>
 			
 		
 	  <div class="category-container">
-
+      <!-- Додав кнопку закриття -->
+     <div class="close-menu">
+       <img src="img/close-popup.png" alt="">
+     </div>
+     <!-- Додав кнопку закриття -->
     <ul>
       <li class="category__burger">
         <ul class="category__inner category__inner__mob">
@@ -377,3 +383,5 @@
 
 </div>
 	</div>
+
+  <!-- Меню для моб -->
