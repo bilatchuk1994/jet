@@ -407,9 +407,14 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
 
 .close-menu {
     position: absolute;
-    top: -30px;
+    top: -32px;
     right: 22px;
     z-index: 99;
+}
+
+.close-menu img{
+    height: 30px;
+    width: 30px;
 }
 
 }

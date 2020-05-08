@@ -136,7 +136,7 @@
 	  <div class="category-container">
       <!-- Додав кнопку закриття -->
      <div class="close-menu">
-       <img src="img/close-popup.png" alt="">
+       <img src="img/shapes-and-symbols.svg" alt="">
      </div>
      <!-- Додав кнопку закриття -->
     <ul>
