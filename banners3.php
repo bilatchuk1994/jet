@@ -18,6 +18,192 @@
 
 
 
+<!-- Нові баннера -->
+<section class="banner banner-bosh-build">
+  <div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+          <div class="breadcrums">
+          <ul>
+            <li><a href="">Главная</a></li>
+            <li><span>></span></li>
+            <li><a href="">каталог</a></li>
+            <li><span>></span></li>
+            <li>Гарнитуры для PS4 Pro / PS4. Xbox One & More. 951 Единицы</li>
+          </ul>
+        </div>
+        </div>
+      </div>
+    <div class="row">
+      <div class="col-8 col-lg-7 col-md-8">
+        <h3>Ликвидации  строительных инструментов Bosch от крупнейших ритейлеров</h3>
+        <p>Покупайте выгодно и зарабатывайте от 100% прибыли на их перепродажи</p>
+      </div>
+      <div class="col-4 col-lg-5 col-md-4">
+        <div class="banner-img">
+          <img src="img/banner-img32.png" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="banner banner-hammer">
+  <div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+          <div class="breadcrums">
+          <ul>
+            <li><a href="">Главная</a></li>
+            <li><span>></span></li>
+            <li><a href="">каталог</a></li>
+            <li><span>></span></li>
+            <li>Гарнитуры для PS4 Pro / PS4. Xbox One & More. 951 Единицы</li>
+          </ul>
+        </div>
+        </div>
+      </div>
+    <div class="row">
+      <div class="col-8 col-lg-7 col-md-8">
+        <h3>Ликвидации строительных инструментов Hammer от крупнейших ритейлеров</h3>
+        <p>Покупайте выгодно и зарабатывайте от 100% прибыли на их перепродажи</p>
+      </div>
+      <div class="col-4 col-lg-5 col-md-4">
+        <div class="banner-img">
+          <img src="img/banner-img33.png" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="banner banner-garden">
+  <div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+          <div class="breadcrums">
+          <ul>
+            <li><a href="">Главная</a></li>
+            <li><span>></span></li>
+            <li><a href="">каталог</a></li>
+            <li><span>></span></li>
+            <li>Гарнитуры для PS4 Pro / PS4. Xbox One & More. 951 Единицы</li>
+          </ul>
+        </div>
+        </div>
+      </div>
+    <div class="row">
+      <div class="col-8 col-lg-7 col-md-8">
+        <h3>Ликвидации садовой техники и инструментов от крупнейших ритейлеров</h3>
+        <p>Покупайте выгодно и зарабатывайте от 100% прибыли на их перепродажи</p>
+      </div>
+      <div class="col-4 col-lg-5 col-md-4">
+        <div class="banner-img">
+          <img src="img/banner-img34.png" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="banner banner-plumbin">
+  <div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+          <div class="breadcrums">
+          <ul>
+            <li><a href="">Главная</a></li>
+            <li><span>></span></li>
+            <li><a href="">каталог</a></li>
+            <li><span>></span></li>
+            <li>Гарнитуры для PS4 Pro / PS4. Xbox One & More. 951 Единицы</li>
+          </ul>
+        </div>
+        </div>
+      </div>
+    <div class="row">
+      <div class="col-8 col-lg-7 col-md-8">
+        <h3>Ликвидации товаров климата, освещения и сантехники от крупнейших ритейлеров</h3>
+        <p>Покупайте выгодно и зарабатывайте от 100% прибыли на их перепродажи</p>
+      </div>
+      <div class="col-4 col-lg-5 col-md-4">
+        <div class="banner-img">
+          <img src="img/banner-img35.png" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="banner banner-black banner-equipment">
+  <div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+          <div class="breadcrums">
+          <ul>
+            <li><a href="">Главная</a></li>
+            <li><span>></span></li>
+            <li><a href="">каталог</a></li>
+            <li><span>></span></li>
+            <li>Гарнитуры для PS4 Pro / PS4. Xbox One & More. 951 Единицы</li>
+          </ul>
+        </div>
+        </div>
+      </div>
+    <div class="row">
+      <div class="col-8 col-lg-7 col-md-8">
+        <h3>Ликвидации строительной техники и оборудования от крупнейших ритейлеров</h3>
+        <p>Покупайте выгодно и зарабатывайте от 100% прибыли на их перепродажи</p>
+      </div>
+      <div class="col-4 col-lg-5 col-md-4">
+        <div class="banner-img">
+          <img src="img/banner-img36.png" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="banner banner-black banner-tools">
+  <div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+          <div class="breadcrums">
+          <ul>
+            <li><a href="">Главная</a></li>
+            <li><span>></span></li>
+            <li><a href="">каталог</a></li>
+            <li><span>></span></li>
+            <li>Гарнитуры для PS4 Pro / PS4. Xbox One & More. 951 Единицы</li>
+          </ul>
+        </div>
+        </div>
+      </div>
+    <div class="row">
+      <div class="col-8 col-lg-7 col-md-8">
+        <h3>Ликвидации  строительных инструментов  от крупнейших ритейлеров</h3>
+        <p>Покупайте выгодно и зарабатывайте от 100% прибыли на их перепродажи</p>
+      </div>
+      <div class="col-4 col-lg-5 col-md-4">
+        <div class="banner-img">
+          <img src="img/banner-img37.png" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Нові баннера -->
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <section class="banner banner-black banner-hots">
   <div class="container">
     <div class="row">

@@ -3895,6 +3895,61 @@ list-style: none;
     top: -54px;
 }
 
+.banner-bosh-build{
+    background-color: #799bad;
+}
+
+.banner-hammer{
+    background-color: #95815c;
+}
+
+
+.banner-garden{
+  background-color: #6d901c;
+}
+
+.banner-plumbin{
+    background-color: #bf7643;
+}
+
+.banner-equipment {
+    background-color: #ff9c00;
+}
+
+.banner-tools{
+    background-color: #ebb502;
+}
+
+.banner-bosh-build .banner-img {
+    left: -16px;
+    top: -39px;
+}
+
+.banner-hammer .banner-img {
+    left: 150px;
+    top: -51px;
+}
+
+.banner-garden .banner-img {
+    left: 113px;
+    top: -45px;
+}
+
+.banner-plumbin .banner-img {
+    left: 198px;
+    top: -53px;
+}
+
+.banner-equipment .banner-img {
+    left: 53px;
+    top: -48px;
+}
+
+.banner-tools .banner-img {
+    left: 62px;
+    top: -37px;
+}
+
 /*======== end Banners ========*/
 
 

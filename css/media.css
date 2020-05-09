@@ -74,6 +74,15 @@
 .banner-hots .banner-img {
     left: 0px;
 }
+.banner-plumbin .banner-img {
+    left: 98px;
+}
+.banner-hammer .banner-img {
+    left: 50px;
+}
+.banner-garden .banner-img {
+    left: 53px;
+}
 }
 
 
@@ -415,6 +424,36 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
 .close-menu img{
     height: 30px;
     width: 30px;
+}
+
+.banner-bosh-build .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-hammer .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-garden .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-plumbin .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-equipment .banner-img {
+    left: 0;
+    top: 0;
+}
+
+.banner-tools .banner-img {
+    left: 0;
+    top: 0;
 }
 
 }
@@ -955,6 +994,30 @@ ul.slick-dots li button{height:10px;width:10px;margin:0 3px}
 
 .popup-block p {
     font-size: 16px;
+}
+
+.banner-bosh-build .banner-img {
+    left: -20px;
+}
+
+.banner-hammer .banner-img {
+    left: -20px;
+}
+
+.banner-garden .banner-img {
+    left: -20px;
+}
+
+.banner-plumbin .banner-img {
+    left: -20px;
+}
+
+.banner-equipment .banner-img {
+    left: -20px;
+}
+
+.banner-tools .banner-img {
+    left: -20px;
 }
 
 }
