@@ -1915,6 +1915,7 @@ font-size: 18px;
 
 .landing-category .category-group {
     padding: 0 5px;
+    flex-wrap: wrap;
 }
 
 .landing-category .category-group div:nth-child(2) > .category-item {
@@ -1946,6 +1947,7 @@ font-size: 18px;
 .landing-category .category-group div:nth-child(2) > a .category-img {
     right: 55px;
 }
+
 
 .landing-category .category-img img {
     max-width: 100%;
@@ -2486,7 +2488,7 @@ font-size: 18px;
     width: calc(100% + 60px);
     z-index: 2;
     background-image: url(../img/sold-bg.jpg);
-    background-size: contain;
+    background-size: 100% 100%;
     background-position: center;
     visibility: hidden;
     opacity: 0;

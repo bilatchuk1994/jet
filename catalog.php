@@ -362,7 +362,7 @@
 								</div>
 							</div>
 					</div>
-					<div class="product-block">
+					<div class="product-block animate">
              
             <!--  Секретний лот -->
 
