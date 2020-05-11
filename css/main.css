@@ -4096,6 +4096,16 @@ list-style: none;
     top: -37px;
 }
 
+.banner-garden-goods{
+    background-color: #e7af24;
+    padding: 19px 0 75px;
+}
+
+.banner-garden-goods .banner-img {
+    left: 41px;
+    top: -50px;
+}
+
 /*======== end Banners ========*/
 
 
