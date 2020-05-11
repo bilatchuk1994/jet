@@ -39,8 +39,13 @@
 .offer h3 span{font-size:12px}
 .product-detail-flex > div{margin-right:15px}
 .product-detail-flex p{font-size:14px}
-.category-flex ul li{margin-right:30px}
-.category-flex ul li a:before{right:-15px;top:3px}
+.category-flex ul li {
+    margin-right: 15px;
+}
+.category-flex ul li a:before {
+    right: -11px;
+    top: 2px;
+}
 .search-col{width:100%;padding:0 30px}
 .input-search{width:430px}
 .category-item{width:180px}
@@ -82,6 +87,10 @@
 }
 .banner-garden .banner-img {
     left: 53px;
+}
+
+.category-flex ul li a {
+    font-size: 10px;
 }
 }
 
@@ -456,6 +465,16 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
     top: 0;
 }
 
+.banner-plumbin .banner-img {
+    left: 0;
+    top: -90px;
+    position: absolute;
+}
+
+.banner-plumbin .banner-img img{
+    max-width: 80%;
+}
+
 }
 
 
@@ -641,6 +660,10 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
 
 .banner-auto  h3:before {
     right: -30px;
+}
+
+.banner-plumbin .banner-img {
+    top: -57px;
 }
 
 }
@@ -1018,6 +1041,11 @@ ul.slick-dots li button{height:10px;width:10px;margin:0 3px}
 
 .banner-tools .banner-img {
     left: -20px;
+}
+
+.banner-plumbin .banner-img {
+    left: 10px;
+    top: -48px;
 }
 
 }

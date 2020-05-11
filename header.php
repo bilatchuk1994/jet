@@ -98,12 +98,23 @@
 							</div>
 						</div>
 					</div>
-					<div class="category-flex">
-						<div>
-							<div class="category-container">
-								<ul>
-									<li><a href="">Каталог</a></li>
-									<li><a href="https://restocker.ru/catalog/7">
+					
+				</div>
+			</div>
+		</div>
+
+
+<!-- Для меню змінив контейнер -->
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="category-flex">
+            <div>
+              <div class="category-container">
+                <ul>
+                  <li><a href="">Каталог</a></li>
+                  <li><a href="https://restocker.ru/catalog/7">
         Платья, костюмы и пиджаки
     </a></li> <li><a href="https://restocker.ru/catalog/8">
         Джинсы и штаны
@@ -116,12 +127,15 @@
     </a></li> <li><a href="https://restocker.ru/catalog/12">
         Сумки, очки и аксессуары
     </a></li></ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+<!-- Для меню змінив контейнер -->
+
 	</div>
 </header>
 	
