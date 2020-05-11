@@ -475,6 +475,11 @@
 							</div>
 							<h6>Доступен только зарегистрированным пользователям!</h6>
 						</div>
+						<div class="sold-lot">
+							<div class="sold-block">
+								<span>лот продан</span> <img src="img/money-sold.png" alt="">
+							</div>
+						</div>
 						  <div class="like-product">
 						  	<a href=""><img src="img/star.svg" alt=""></a>
 						  </div>
