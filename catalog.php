@@ -457,6 +457,24 @@
 							</div>
 					</div>
 					<div class="product-block">
+						<div class="secret-lot">
+							<div class="flex-center">
+								<div>
+									<div class="star-icon"><img src="img/star-icon.png" alt=""></div>
+								</div>
+							</div>
+							<h3>Секретный лот</h3>
+							<div class="timer-inner">
+								<div class="timer-line"></div>
+							</div>
+							<p>Чтобы увидеть его зарегистрируйтесь, это бесплатно! </p>
+							<div class="flex-center">
+								<div>
+									<a class="flex-center" href="">зарегистрироваться <img src="img/flash-icon.png" alt=""></a>
+								</div>
+							</div>
+							<h6>Доступен только зарегистрированным пользователям!</h6>
+						</div>
 						  <div class="like-product">
 						  	<a href=""><img src="img/star.svg" alt=""></a>
 						  </div>
