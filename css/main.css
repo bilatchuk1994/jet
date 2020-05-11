@@ -2468,7 +2468,7 @@ font-size: 18px;
 }
 
 .timer-line{
-  width: 0;
+  width: 100%;
   height: 4px;
   background-color: #ec2e78;
   -webkit-transition: 20s linear;
@@ -2477,7 +2477,7 @@ font-size: 18px;
 }
 
 .product-block.animate .timer-line{
-  width: 100%;
+  width: 0;
 }
 
 .sold-lot {
