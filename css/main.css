@@ -2402,6 +2402,7 @@ font-size: 18px;
     height: 100%;
     background-image: url(../img/secret-bg.jpg);
     background-size: cover;
+    background-color: #ffffff;
     background-position: top 10px center;
     z-index: 9;
     padding: 20px 0 0;
@@ -2471,13 +2472,10 @@ font-size: 18px;
   width: 100%;
   height: 4px;
   background-color: #ec2e78;
-  -webkit-transition: 20s linear;
-    -o-transition: 20s linear;
-    transition: 20s linear;
 }
 
 .product-block.animate .timer-line{
-  width: 0;
+/*  width: 0;*/
 }
 
 .sold-lot {
@@ -2489,6 +2487,7 @@ font-size: 18px;
     z-index: 2;
     background-image: url(../img/sold-bg.jpg);
     background-size: 99% 100%;
+    background-color: #ffffff;
     background-position: center;
     visibility: hidden;
     opacity: 0;
@@ -2502,7 +2501,6 @@ font-size: 18px;
     -webkit-transition: .7s ease-in;
     -o-transition: .7s ease-in;
     transition: .7s ease-in;
-    transition-delay: 20s;
 }
 
 .sold-block{
@@ -4462,6 +4460,272 @@ list-style: none;
 /*======== end Popup-table ========*/
 
 
+
+/*Стилі для кабінету*/
+.header-cabinet-links {
+        display: none;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.25);
+        border-radius: 0px 0px 10px 10px;
+        position: absolute;
+        right: 10px;
+        padding: 10px;
+        z-index: 2;
+    }
+
+    .header-cabinet-links.active {
+        display: block;
+    }
+
+    .header-cabinet-links ul {
+        padding: 0px;
+        margin: 0px;
+        list-style: none;
+    }
+
+    .header-cabinet-links ul li a {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 18px;
+        color: #3B3B3B;
+        transition: all 0.3s;
+
+    }
+
+    .header-cabinet-links ul li a:hover {
+        color: #4643F2;
+        transition: all 0.3s;
+    }
+
+    .header-cabinet-links ul li a img {
+        margin-right: 5px;
+        margin-top: -3px;
+    }
+
+    .account-page {
+        padding: 65px 0;
+    }
+
+    .account-page m-auto {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .account-page form {
+        margin-bottom: 50px;
+    }
+
+    .account-page .form-title {
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 25px;
+        color: #333333;
+        margin-bottom: 10px;
+    }
+
+    .account-page form .form-group {
+        position: relative;
+        padding: 20px 0 10px;
+        margin-bottom: 0px;
+    }
+
+    .account-page form button[type="submit"] {
+        background: #4643F2;
+        border-radius: 2px;
+        height: 48px;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 15px;
+        line-height: 19px;
+        color: #FFFFFF;
+        text-align: center;
+        padding: 13px 21px;
+        display: block;
+        width: auto;
+        margin: 20px auto 10px;
+        text-transform: uppercase;
+        transition: all 0.3s;
+    }
+
+    .account-page form button[type="submit"]:hover,
+    .account-page form button[type="submit"]:active,
+    .account-page form button[type="submit"]:focus {
+        box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.2);
+        transition: all 0.3s;
+        border-color: #4643F2;
+        background: #4643F2;
+    }
+
+    .account-page form .form-group label {
+        position: absolute;
+        left: 17px;
+        top: 9px;
+        background: #fff;
+        padding: 1px 6px;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 19px;
+        color: #2F2F2F;
+        z-index: 2;
+    }
+
+    .account-page form .form-group .small a {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 11px;
+        line-height: 14px;
+        color: #4D38AF;
+    }
+
+    .account-page form input {
+        position: relative;
+        background: #FFFFFF;
+        border: 1px solid #C4C4C4;
+        box-sizing: border-box;
+        border-radius: 2px;
+        height: 58px;
+        transition: all 0.3s;
+        color: #333333;
+    }
+
+    .account-page form input:focus,
+    .account-page form input:active {
+        border: 1px solid #4643F2;
+        transition: all 0.3s;
+    }
+
+
+
+
+    .account-page form .form-row {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        margin-right: -5px;
+        margin-left: -5px;
+        margin-bottom: 0px;
+    }
+
+    .account-page form .form-row>.col,
+    .account-page form .form-row>[class*=col-] {
+        padding-right: 5px;
+        padding-left: 5px;
+    }
+
+
+    .account-page form .more-fields-wrap {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 19px;
+        color: #000000;
+        text-align: center;
+    }
+
+    .account-page form .more-fields-wrap .more-fields-btns span {
+        background: #FFFFFF;
+        border: 1px solid #4643F2;
+        box-sizing: border-box;
+        border-radius: 2px;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 15px;
+        line-height: 19px;
+        transition: all 0.3s;
+        color: #000000;
+        padding: 13px;
+        text-align: center;
+        min-width: 125px;
+        margin: 10px 26px;
+        display: inline-block;
+        cursor: pointer;
+    }
+
+    .account-page form .more-fields-wrap .more-fields-btns span:hover,
+    .account-page form .more-fields-wrap .more-fields-btns span:active,
+    .account-page form .more-fields-wrap .more-fields-btns span:hover {
+        border: 1px solid #4643F2;
+        box-sizing: border-box;
+        border-radius: 2px;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 15px;
+        line-height: 19px;
+        transition: all 0.3s;
+        background: #4643F2;
+        border-radius: 2px;
+        color: #fff;
+    }
+
+
+.tabs-container {
+        margin: 50px auto;
+    }
+
+    .tabs {
+        display: flex;
+        padding: 0px;
+        margin: 10px 0;
+        list-style: none;
+    }
+
+    .tabs li {
+        width: 50%;
+        text-align: center;
+
+    }
+
+    .tabs li:nth-child(1) a {
+        border-radius: 2px 0 0 2px;
+    }
+
+    .tabs li:nth-child(2) a {
+        border-radius: 0 2px 2px 0;
+    }
+
+    .tabs li a {
+        display: block;
+        position: relative;
+        background: #E5E5E5;
+        border: 1px solid #C4C4C4;
+        box-sizing: border-box;
+        transition: all 0.1s ease-in-out;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 25px;
+        padding: 11px;
+        color: #C4C4C4;
+        text-decoration: none;
+    }
+
+    .tabs li.active a,
+    .tabs li a:hover {
+        background: #FFFFFF;
+        border: 1px solid #4643F2;
+        box-sizing: border-box;
+        box-shadow: 0px 3px 5px rgba(70, 67, 242, 0.1);
+        color: #4643F2;
+
+    }
+
+    .tabs-content {
+        position: relative;
+        z-index: 2;
+    }
+
+    .tabs-panel {
+        display: none;
+    }
+
+    .tabs-panel.active {
+        display: block;
+    }
+
+/*Стилі для кабінету*/
 
 
 /*======== beg Footer ========*/
