@@ -1397,8 +1397,9 @@ font-size: 18px;
 
 .category-group {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: flex-start;
+    padding: 0 0 21px;
 }
 
 .category-group div{
@@ -1409,9 +1410,13 @@ font-size: 18px;
     margin-right: 0;
 }
 
-.category-group div:nth-child(7){
-    display: none;
+.category-section  .category-scroll {
+    overflow-x: auto;
 }
+
+.category-scroll::-webkit-scrollbar{width:0px}
+.category-scroll::-webkit-scrollbar-track{background:transparent;}
+.category-scroll::-webkit-scrollbar-thumb{background: transparent;}
 
 .sort-block {
     border-radius: 5px;
@@ -4461,17 +4466,40 @@ list-style: none;
 
 
 
+
+
+
 /*Стилі для кабінету*/
-.header-cabinet-links {
+
+    .header-cabiner {
+        position: relative;
+    }
+
+
+
+    .header-cabinet-links {
         display: none;
         background: #FFFFFF;
-        box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.25);
-        border-radius: 0px 0px 10px 10px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+        border-radius: 8px;
         position: absolute;
-        right: 10px;
-        padding: 10px;
+        right: 4px;
+        top: 66px;
         z-index: 2;
+        width: 175px;
     }
+
+.header-cabinet-links:before {
+    width: 0;
+    height: 0;
+    border-left: 13px solid transparent;
+    border-right: 13px solid transparent;
+    border-bottom: 15px solid #fff;
+    content: "";
+    position: absolute;
+    top: -10px;
+    right: 9px;
+}
 
     .header-cabinet-links.active {
         display: block;
@@ -4479,8 +4507,20 @@ list-style: none;
 
     .header-cabinet-links ul {
         padding: 0px;
-        margin: 0px;
+        margin: 7px 0;
         list-style: none;
+    }
+
+
+    .header-cabinet-links ul li a:hover,
+    .header-cabinet-links ul li a:active {
+        background: #F5F5F5;
+        color: #4643F2;
+    }
+
+    .header-cabinet-links ul li:last-child a {
+        border-top: 1px solid #DEDEDE;
+        margin-top: 7px;
     }
 
     .header-cabinet-links ul li a {
@@ -4490,6 +4530,9 @@ list-style: none;
         line-height: 18px;
         color: #3B3B3B;
         transition: all 0.3s;
+        width: 100%;
+        padding: 5px 13px;
+        display: block;
 
     }
 
@@ -4498,10 +4541,17 @@ list-style: none;
         transition: all 0.3s;
     }
 
-    .header-cabinet-links ul li a img {
-        margin-right: 5px;
-        margin-top: -3px;
+    .header-cabinet-links ul li a:hover svg {
+        fill: #4643F2;
     }
+
+    .header-cabinet-links ul li a svg {
+        fill: #3B3B3B;
+        margin-right: 3px;
+        width: 10px;
+    }
+
+
 
     .account-page {
         padding: 65px 0;
