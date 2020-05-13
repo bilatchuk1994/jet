@@ -64,28 +64,18 @@
   </div>
 
 
+<!-- Новий Попап спасибо за регистрацию -->
+
 <div id="popup-contact" class="white-popup mfp-hide mfp-with-anim">
-    <div class="popup-block two-step-popup">
-      <div class="popup-title">
-        <h2>Почти готово</h2>
-        <div class="step-flex">
-          <div><span class="step-one flex-center">1</span></div>
-          <div><span class="step-two flex-center">2</span></div>
-        </div>  
-        <p>Пожалуйста, укажите свое имя и номер телефона</p>
-      </div> 
-      <div>
-        <form class="form" method="post" action="https://restocker.ru/login">
-          <input type="text" placeholder="Введите ваше имя" name="name">
-          <input class="phone-input" type="tel" placeholder="+7(___) ___ __ __" name="phone">
-          <button type="submit">ЗАРЕГЕСТИРОВАТЬСЯ 👌</button>
-        </form>
-      </div>
+    <div class="popup-block popup-thanks">
+      <h3>СПАСИБО ЗА РЕГИСТРАЦИЮ!</h3>
       <div class="close-btn">
          <img src="img/close-popup.svg" alt="">
       </div>  
     </div>
   </div>
+
+<!-- Новий Попап спасибо за регистрацию -->
 
 
 </main>

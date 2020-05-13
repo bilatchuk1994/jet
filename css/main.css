@@ -56,6 +56,10 @@ a:focus,button:focus,input:focus,textarea:focus, select:focus{outline:0}
 
 
 /*======== beg Header ========*/
+.header{
+    overflow: hidden;
+}
+
 
 .buy-flex{
     display: flex;
@@ -383,6 +387,11 @@ text-decoration: underline;
     line-height: 1.2;
     letter-spacing: 0.8px;
     margin: 0 0 21px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .detail-right {
@@ -1393,30 +1402,23 @@ font-size: 18px;
 
 .category-section {
     margin: -48px 0 0;
+    overflow: hidden;
 }
 
 .category-group {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: flex-start;
     padding: 0 0 21px;
 }
 
 .category-group div{
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
 .category-group div:last-child{
     margin-right: 0;
 }
-
-.category-section  .category-scroll {
-    overflow-x: auto;
-}
-
-.category-scroll::-webkit-scrollbar{width:0px}
-.category-scroll::-webkit-scrollbar-track{background:transparent;}
-.category-scroll::-webkit-scrollbar-thumb{background: transparent;}
 
 .sort-block {
     border-radius: 5px;
@@ -2878,8 +2880,8 @@ font-size: 18px;
 }
 
 .product-images img {
-    width: 100%;
-    height: auto;
+      max-width: 100%;
+    max-height: 100%;
 }
 
 .flex-start{
@@ -2896,6 +2898,11 @@ font-size: 18px;
     width: 101%;
     margin: 0 0 18px;
     height: 54px;
+        display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 
@@ -4407,7 +4414,8 @@ list-style: none;
 }
 
 .popup-table-inner table td img {
-    width: 34px;
+   max-width: 34px;
+    max-height: 32px;
 }
 
 .popup-table-inner table td span {
@@ -4933,6 +4941,21 @@ font-size: 14px;
     height: 386px;
 }
 
+.popup-thanks{
+height: 178px;
+background: #FFFFFF;
+border-radius: 10px;
+padding: 70px 0;
+}
+
+.popup-thanks h3{
+    font-weight: bold;
+font-size: 30px;
+line-height: 38px;
+color: #000000;
+text-align: center;
+}
+
 .popup-block .close-btn {
     position: absolute;
     right: 19px;
@@ -4982,7 +5005,7 @@ font-size: 14px;
 .popup-block button {
     border-radius: 5px;
     background-color: rgb(70, 67, 242);
-    width: 210px;
+    width: 281px;
     height: 41px;
     border: 0;
     cursor: pointer;
@@ -5158,10 +5181,6 @@ border: 1px solid #4643F2;
     display: flex;
     justify-content: flex-end;
     align-items: center;
-}
-
-.v--modal-box.v--modal {
-    padding: 0 8px;
 }
 
 .mfp-zoom-in .mfp-with-anim{opacity:0;transition:all .2s ease-in-out;transform:scale(0.8)}
