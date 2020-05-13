@@ -4547,6 +4547,7 @@ list-style: none;
         margin: 20px auto 10px;
         text-transform: uppercase;
         transition: all 0.3s;
+        cursor: pointer;
     }
 
     .account-page form button[type="submit"]:hover,
@@ -4580,15 +4581,19 @@ list-style: none;
     }
 
     .account-page form input {
-        position: relative;
-        background: #FFFFFF;
-        border: 1px solid #C4C4C4;
-        box-sizing: border-box;
-        border-radius: 2px;
-        height: 58px;
-        transition: all 0.3s;
-        color: #333333;
-    }
+    position: relative;
+    background: #fff;
+    border: 1px solid #c4c4c4;
+    box-sizing: border-box;
+    border-radius: 2px;
+    height: 58px;
+    transition: all .3s;
+    color: #333;
+    width: 100%;
+    padding-left: 15px;
+}
+
+
 
     .account-page form input:focus,
     .account-page form input:active {
