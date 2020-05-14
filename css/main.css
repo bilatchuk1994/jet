@@ -1420,7 +1420,7 @@ font-size: 18px;
 .category-scroll.many-children::-webkit-scrollbar-thumb{background:  transparent;}
 
 .category-group div{
-    margin-right: 10px;
+    margin-right: 15px;
 }
 
 .category-group div:last-child{
