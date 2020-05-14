@@ -194,7 +194,7 @@ text-decoration: underline;
 }
 
 
-.category-flex ul li:last-child > .category__inner.category--flat {
+.category-flex ul li:last-child  .category__inner.category--flat {
     right: -10px;
     left: auto;
     transform: translateX(0);

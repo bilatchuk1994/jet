@@ -126,7 +126,9 @@
         Верхняя одежда
     </a></li> <li><a href="https://restocker.ru/catalog/12">
         Сумки, очки и аксессуары
-    </a></li></ul>
+    </a>
+<ul class="category__inner category--flat"><li><a href="https://test.restocker.ru/catalog/44"><div class="category__preview"></div> <span>Садовая техника и инструменты</span></a></li> <li><a href="https://test.restocker.ru/catalog/45"><div class="category__preview"></div> <span>Строительный инструменты</span></a></li> <li><a href="https://test.restocker.ru/catalog/46"><div class="category__preview"></div> <span>Строительная техника и оборудование</span></a></li> <li><a href="https://test.restocker.ru/catalog/47"><div class="category__preview"></div> <span>Климат, освещение, сантехника</span></a></li> <li><a href="https://test.restocker.ru/catalog/48"><div class="category__preview"></div> <span>Bosch.</span></a></li> <li><a href="https://test.restocker.ru/catalog/49"><div class="category__preview"></div> <span>Hammer</span></a></li></ul>
+  </li></ul>
               </div>
             </div>
           </div>

@@ -92,6 +92,19 @@
 .category-flex ul li a {
     font-size: 10px;
 }
+.product-block .like-product {
+    right: -10px;
+    top: 81px;
+}
+.catalog-content {
+    padding: 10px 0 66px;
+    overflow: hidden;
+}
+.product-block .price-text p .info-hover {
+    font-size: 10px;
+    width: 87px;
+    right: -34px;
+}
 }
 
 
