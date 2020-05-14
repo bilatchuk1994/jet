@@ -1408,7 +1408,8 @@ font-size: 18px;
 }
 
 .category-scroll.many-children {
-    overflow-x: scroll;
+    overflow-x: auto;
+    width: calc((100vw - 1170px) / 2 + 1160px);
 }
 
 .many-children .category-group {
