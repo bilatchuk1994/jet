@@ -185,7 +185,6 @@
 	<script src="libs/we/js/intlInputPhone.min.js"></script>
 	<script src="js/jquery.inputmask.bundle.min.js"></script>
 	<script src="js/lazysizes.min.js"></script>
-	<script src="libs/scrollbar/jquery.mCustomScrollbar.concat.min.js"></script>
 	<script src="js/common.js"></script>
 	<script src="js/menu.js"></script>
 	<!-- Yandex.Metrika counter --><!-- /Yandex.Metrika counter -->
