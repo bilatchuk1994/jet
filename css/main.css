@@ -2504,6 +2504,9 @@ font-size: 18px;
   width: 100%;
   height: 4px;
   background-color: #ec2e78;
+  -webkit-transition: .2s ease-in;
+    -o-transition: .2s ease-in;
+    transition: .2s ease-in;
 }
 
 .product-block.animate .timer-line{
