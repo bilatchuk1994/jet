@@ -56,11 +56,6 @@ a:focus,button:focus,input:focus,textarea:focus, select:focus{outline:0}
 
 
 /*======== beg Header ========*/
-.header{
-    overflow: hidden;
-}
-
-
 .buy-flex{
     display: flex;
     justify-content: flex-start;
@@ -1411,6 +1406,18 @@ font-size: 18px;
     align-items: flex-start;
     padding: 0 0 21px;
 }
+
+.category-scroll.many-children {
+    overflow-x: scroll;
+}
+
+.many-children .category-group {
+    justify-content: flex-start;
+}
+
+.category-scroll.many-children::-webkit-scrollbar{width:0px}
+.category-scroll.many-children::-webkit-scrollbar-track{background: transparent;}
+.category-scroll.many-children::-webkit-scrollbar-thumb{background:  transparent;}
 
 .category-group div{
     margin-right: 10px;
