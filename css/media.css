@@ -498,6 +498,10 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
     top: 0;
 }
 
+.category-scroll.many-children {
+    width: 100%;
+}
+
 }
 
 

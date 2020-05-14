@@ -1265,7 +1265,7 @@ font-size: 18px;
 }
 
 .catalog-content {
-    padding: 40px 0 66px;
+    padding: 10px 0 66px;
 }
 
 .filter-block {
@@ -1404,16 +1404,25 @@ font-size: 18px;
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    padding: 0 0 21px;
+    padding: 0 0 30px;
 }
 
 .category-scroll.many-children {
-    overflow-x: auto;
     width: calc((100vw - 1170px) / 2 + 1160px);
 }
 
 .many-children .category-group {
     justify-content: flex-start;
+}
+
+.mCSB_scrollTools.mCSB_scrollTools_horizontal .mCSB_draggerRail {
+    height: 0;
+    margin: 0px 0;
+}
+
+.mCSB_horizontal.mCSB_inside>.mCSB_container {
+    margin-right: 0;
+    margin-bottom: 0;
 }
 
 .category-scroll.many-children::-webkit-scrollbar{width:0px}

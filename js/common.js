@@ -214,6 +214,16 @@ thank.owlCarousel({
   });
 
 
+$(".mCustomScrollbar").mCustomScrollbar({
+    axis:"x",
+    keyboard: true,
+    scrollButtons:{
+    enable:true
+  },
+  theme:"my-theme"
+});
+
+
   $( function() {
     $( "#slider-bet" ).slider({
       range: true,

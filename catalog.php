@@ -50,8 +50,40 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<div class="category-scroll">
+				<div class="category-scroll many-children mCustomScrollbar">
 				<div class="category-group">
+					<div>
+						<a class="category-item" href="#">
+							 <p>Одежда, обувь  и аксессуары  </p>
+							 <div class="category-img">
+							 	<img src="img/14.png" alt="">
+							 </div>
+						</a>
+					</div>
+					<div>
+						<a class="category-item" href="#">
+							 <p>Одежда, обувь  и аксессуары  </p>
+							 <div class="category-img">
+							 	<img src="img/14.png" alt="">
+							 </div>
+						</a>
+					</div>
+					<div>
+						<a class="category-item" href="#">
+							 <p>Одежда, обувь  и аксессуары  </p>
+							 <div class="category-img">
+							 	<img src="img/14.png" alt="">
+							 </div>
+						</a>
+					</div>
+					<div>
+						<a class="category-item" href="#">
+							 <p>Одежда, обувь  и аксессуары  </p>
+							 <div class="category-img">
+							 	<img src="img/14.png" alt="">
+							 </div>
+						</a>
+					</div>
 					<div>
 						<a class="category-item" href="#">
 							 <p>Одежда, обувь  и аксессуары  </p>
