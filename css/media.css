@@ -724,6 +724,39 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
         padding: 45px 0 0;
 }
 
+
+.product-flash {
+    height: auto;
+}
+
+.product-flash-img {
+    height: 118px;
+    margin: 0 0 15px;
+}
+
+.flash-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flash-leader-text {
+    padding: 0;
+}
+
+.product-flash {
+    height: auto;
+    padding: 60px 20px;
+}
+
+.flash-inner {
+    width: 100%;
+    height: 50px;
+    font-size: 16px;
+    border-bottom-right-radius: 0;
+}
+
+
 }
 
 
@@ -1202,6 +1235,91 @@ ul.slick-dots li button{height:10px;width:10px;margin:0 3px}
 
 .popup-thanks {
     height: auto;
+}
+
+
+.product-flash-img {
+    height: 90px;
+    margin: 0 0 15px;
+}
+
+.product-flash {
+    height: auto;
+    padding: 75px 10px 15px;
+
+}
+
+.catalog-content .col-lg-5 {
+    padding: 0 5px;
+}
+
+.product-flash a.flash-btn {
+    height: 40px;
+    font-size: 10px;
+    padding: 0 5px;
+}
+
+.product-flash h3 {
+    font-size: 10px;
+}
+
+.product-flash .product-detail-list li:first-child {
+    font-size: 10px;
+}
+
+.product-flash .product-detail-list li:first-child  span.lot-span{
+    display: none;
+}
+
+.product-flash .product-detail-list li img {
+    width: 20px;
+    margin-right: 10px;
+}
+
+.product-flash p {
+    font-size: 10px;
+}
+
+.product-flash .timer-inner {
+    height: 8px;
+    margin: 24px 0 16px 3px;
+}
+
+.product-flash .timer-inner .timer-line {
+    height: 8px;
+}
+
+.flash-leader h6 {
+    font-size: 10px;
+    margin-left: 14px;
+}
+
+.flash-inner {
+    height: 40px;
+}
+
+.product-flash {
+    padding: 62px 10px 15px;
+}
+
+.product-flash h3 {
+    font-size: 11px;
+    line-height: 1.4;
+}
+
+.product-flash .timer-inner {
+    height: 8px;
+    margin: 29px 0 11px 3px;
+    width: 100%;
+}
+
+.flash-flex {
+    margin: 8px 0 0;
+    padding: 0 0 0 10px;
+}
+
+.flash-flex p{
+  text-align: left;
 }
 
 
