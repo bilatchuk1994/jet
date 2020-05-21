@@ -12,7 +12,7 @@ jQuery(window).resize(function() {
 
 //* Scroll
 jQuery(window).scroll(function() {
-    // scrollanim();
+    // damaxStickyHeader();
 });
 
 //* Register
@@ -31,6 +31,16 @@ damaxRegister();
 //         jQuery('.top-right h3').matchHeight();
 //     });
 // }
+
+
+
+$(window).scroll(function() {
+    if ($(this).scrollTop() > 200) {
+      $('.header-popup').addClass("hide");
+    }
+  });
+
+
 
 $('.input-phone').intlInputPhone();
 
@@ -51,6 +61,8 @@ jQuery('.close-btn').click(function(event) {
     event.preventDefault();
     jQuery.magnificPopup.close();
 });
+
+
 
 
 

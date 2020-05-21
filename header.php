@@ -85,16 +85,20 @@
 						</div>
 						<div>
 							<div class="header-cabiner">
-								<div>
-									<a href=""><span>Алексей</span></a>
-								</div>
-								<div>
-									<a href="">
-										<div class="cabinet-icon flex-center">
-										<img src="img/user.svg" alt="">
-									</div>
-									</a>
-								</div>
+                <a href="">Войти</a>
+
+                
+                <!-- Залипашка для кабинета -->
+
+                <div class="header-popup">
+                  <p>Войдите или зарегестрируйтесь, чтобы учавствовать в аукционах и получить доступ к секретным лотам</p>
+                  <a class="flex-center" href="">Войти или зарегестрироваться</a>
+                </div>
+
+
+                 <!-- Залипашка для кабинета -->
+
+
 							</div>
 						</div>
 					</div>
