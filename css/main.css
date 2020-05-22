@@ -5197,8 +5197,9 @@ beg Popup Step
     color: #fff;
 }
 
-.step-form .send-later{
+.step-form .send-later {
     text-align: center;
+    margin: 20px 0 0;
 }
 
 .step-form .send-later a{
