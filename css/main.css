@@ -5110,6 +5110,11 @@ beg Popup Step
     transition: all 0.3s;
     border-color: #4643F2;
     background: #4643F2;
+    color: #ffffff;
+}
+
+.two-step-popup .vue-tel-input {
+    margin: 0 0 15px;
 }
 
 .step-form form .form-group label {
@@ -5485,7 +5490,7 @@ text-align: center;
 .popup-block button {
     border-radius: 5px;
     background-color: rgb(70, 67, 242);
-    width: 281px;
+    width: 300px;
     height: 41px;
     border: 0;
     cursor: pointer;

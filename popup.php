@@ -223,7 +223,7 @@
             <div><span class="step-three complete flex-center">3</span></div>
             <div><span class="step-four complete flex-center">4</span></div>
         </div> 
-        <p>Укажите адрес доставки для выигранных лотов 🚚</p>
+        <p>Укажите адрес доставки для выигранных лотов и получите автоматический расчёт ее стоимости 🚚</p>
       </div> 
       <div>
             <form action="#">
@@ -256,6 +256,19 @@
                         <label>Помещение</label>
                         <input type="text" class="form-control" placeholder="Помещение">
                     </div>
+
+                    <div class="more-fields">
+                                    <div class="more-fields-wrap">
+                                        Имя и телефон получателя совпадает с вашим?
+                                        <div class="more-fields-btns">
+                                            <span onclick="setVisibility('ooo-post-address', 'none');">Да</span><span onclick="setVisibility('ooo-post-address', 'block');">Нет</span>
+                                        </div>
+                                    </div>
+                                    <div class="form-group" id="ooo-post-address" style="display:none;">
+                                        <label>Почтовый адрес</label>
+                                        <input type="text" class="form-control" placeholder="Почтовый адрес">
+                                    </div>
+                                </div>
 
                     <button type="submit" class="btn btn-primary">Готово 👍</button>
                     <div class="send-later"> <a href="#">Указать позже</a></div>
