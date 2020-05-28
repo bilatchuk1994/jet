@@ -63,13 +63,23 @@ jQuery('.close-btn').click(function(event) {
 });
 
 
+$('body').click(function(e) {
+    if ($(e.target).closest('.header-cabiner').length === 0) {
+        $(".cabinet-menu").hide();
+    }
+});
 
 
 
 function damaxToggleMenu() {
     $("#toggle").click(function() {
-        $(this).toggleClass(" on");
-        $(".nav-menu").slideToggle();
+        $(".cabinet-menu-container").toggleClass(" active");
+        $("body").toggleClass("menu_expand");
+    });
+
+    $(".close-menu-btn").click(function() {
+        $(".cabinet-menu-container").toggleClass(" active");
+        $("body").toggleClass("menu_expand");
     });
 
     $(".category-menu-show").click(function() {
@@ -100,6 +110,16 @@ function damaxToggleMenu() {
     $(".icon-calendar").click(function() {
         $(".calendar-block").toggleClass(" active");
         $(this).toggleClass(" active");
+    });
+
+    $(".cabinet-btn1").click(function() {
+        $(".cabinet-lots").slideToggle();
+        $(".cabinet-user").hide();
+    });
+
+    $(".cabinet-btn2").click(function() {
+        $(".cabinet-user").slideToggle();
+        $(".cabinet-lots").hide();
     });
 }
 
