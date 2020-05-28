@@ -75,6 +75,10 @@
 							</div>
 						</div>
 						<div>
+             
+
+             <!-- Нове меню для кабінету -->
+
 							<div class="header-cabiner">
                 <div>
                   <div class="d-lg-none">
@@ -165,6 +169,11 @@
                 </div> 
                 </div>
               </div>
+
+
+              <!-- Нове меню для кабінету -->
+
+
 						</div>
 					</div>
 					
