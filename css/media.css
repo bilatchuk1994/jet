@@ -539,7 +539,7 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
     right: -110%;
     width: 100%;
     display: flex;
-    z-index: 9;
+    z-index: 999;
     flex-direction: column;
     align-items: flex-end;
     height: 100vh;
