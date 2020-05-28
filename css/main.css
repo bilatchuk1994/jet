@@ -4425,7 +4425,7 @@ list-style: none;
     color: rgb(51, 51, 51);
     text-transform: uppercase;
     font-weight: 500;
-    padding: 9px 15px;
+    padding: 5px 15px;
 }
 
 .popup-table-inner table tr td:first-child{
@@ -4448,8 +4448,8 @@ list-style: none;
 }
 
 .popup-table-inner table td img {
-   max-width: 34px;
-    max-height: 32px;
+   max-width: 40px;
+    max-height: 36px;
 }
 
 .popup-table-inner table td span {
@@ -4494,8 +4494,8 @@ list-style: none;
 }
 
 .lot-preview{
-    width: 34px;
-    height: 32px;
+    width: 40px;
+    height: 36px;
     margin-right: 44px;
 }
 
