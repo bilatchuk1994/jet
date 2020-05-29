@@ -4150,6 +4150,15 @@ list-style: none;
     top: -50px;
 }
 
+.banner-tv{
+    background-color: #8ca7d1;
+}
+
+.banner-tv .banner-img {
+    left: 79px;
+    top: -16px;
+}
+
 /*======== end Banners ========*/
 
 
