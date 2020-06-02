@@ -335,8 +335,8 @@
 
 					<div class="col-lg-12">
 						<div class="product-block">
-						  <div class="like-product">
-						  	<a href=""><img src="img/star.svg" alt=""></a>
+						  <div class="like-product active">
+						  	<a href=""><img class="svg" src="img/star.svg" alt=""></a>
 						  </div>
 							<div class="row product-row">
 								<div class="col-6 col-lg-5 col-md-5">
@@ -438,7 +438,7 @@
 						<!--  Лот продан -->
 
 						  <div class="like-product">
-						  	<a href=""><img src="img/star.svg" alt=""></a>
+						  	<a href=""><img class="svg" src="img/star.svg" alt=""></a>
 						  </div>
 							<div class="row product-row">
 								<div class="col-6 col-lg-5 col-md-5">
@@ -521,7 +521,7 @@
 							</div>
 						</div>
 						  <div class="like-product">
-						  	<a href=""><img src="img/star.svg" alt=""></a>
+						  	<a href=""><img class="svg" src="img/star.svg" alt=""></a>
 						  </div>
 							<div class="row product-row">
 								<div class="col-6 col-lg-5 col-md-5">
@@ -588,7 +588,7 @@
 					</div>
 					<div class="product-block">
 						  <div class="like-product">
-						  	<a href=""><img src="img/star.svg" alt=""></a>
+						  	<a href=""><img class="svg" src="img/star.svg" alt=""></a>
 						  </div>
 							<div class="row product-row">
 								<div class="col-6 col-lg-5 col-md-5">

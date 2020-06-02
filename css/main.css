@@ -3191,9 +3191,13 @@ font-size: 18px;
     border-top: 0;
 }
 
-.product-block .like-product img{
+.product-block .like-product svg{
     width: 30px;
     height: 30px;
+}
+
+.product-block .like-product.active > a svg{
+    fill: rgb(70, 67, 242);
 }
 
 .product-block .like-product {

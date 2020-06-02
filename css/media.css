@@ -672,7 +672,7 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
 .price-text a{display:none}
 .price-text a.register-btn{display:block}
 .product-block .like-product{right:0;top:9px}
-.product-block .like-product img{width:20px;height:20px}
+.product-block .like-product svg{width:20px;height:20px}
 .product-block h3{padding-right:19px}
 .thank-product .product-block{border-bottom:1px solid #d0d0d0;margin:0 0 20px}
 .thank-sld .product-img-flex img{width:60%;height:auto}
