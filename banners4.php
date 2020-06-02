@@ -26,7 +26,7 @@
       </div>
       <div class="col-4 col-lg-3 col-md-3">
         <div class="banner-img">
-          <img src="banners-img/ruble.png" alt="">
+          <img src="img/ruble.png" alt="">
         </div>
       </div>
     </div>
@@ -83,7 +83,7 @@
       </div>
       <div class="col-4 col-lg-3 col-md-3">
         <div class="banner-img">
-          <img src="banners-img/truck.png" alt="">
+          <img src="img/truck.png" alt="">
         </div>
       </div>
     </div>
@@ -113,7 +113,7 @@
       </div>
       <div class="col-4 col-lg-3 col-md-3">
         <div class="banner-img">
-          <img src="banners-img/right.png" alt="">
+          <img src="img/right.png" alt="">
         </div>
       </div>
     </div>
@@ -142,7 +142,7 @@
       </div>
       <div class="col-4 col-lg-3 col-md-3">
         <div class="banner-img">
-          <img src="banners-img/favorites.png" alt="">
+          <img src="img/favorites.png" alt="">
         </div>
       </div>
     </div>
@@ -171,7 +171,7 @@
       </div>
       <div class="col-4 col-lg-3 col-md-3">
         <div class="banner-img">
-          <img src="banners-img/legal-paper.png" alt="">
+          <img src="img/legal-paper.png" alt="">
         </div>
       </div>
     </div>
@@ -200,7 +200,7 @@
       </div>
       <div class="col-4 col-lg-3 col-md-3">
         <div class="banner-img">
-          <img src="banners-img/clockwise.png" alt="">
+          <img src="img/clockwise.png" alt="">
         </div>
       </div>
     </div>
@@ -229,7 +229,7 @@
       </div>
       <div class="col-4 col-lg-3 col-md-3">
         <div class="banner-img">
-          <img src="banners-img/law.png" alt="">
+          <img src="img/law.png" alt="">
         </div>
       </div>
     </div>
