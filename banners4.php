@@ -1,6 +1,5 @@
 <?php include("header.php"); ?>
 
-<main class="main">
 
 <!-- Новий баннер -->
 
@@ -109,7 +108,7 @@
       </div>
     <div class="row d-flex align-items-center">
       <div class="col-8 col-lg-9 col-md-9">
-        <h3>Доставленные лоты</h3>
+        <h3>Доставленные <br>лоты</h3>
         <p>Здесь находятся все лоты, которые были успешно доставлены вам</p>
       </div>
       <div class="col-4 col-lg-3 col-md-3">
@@ -241,7 +240,7 @@
 <section class="lots-none">
 <div class="container">
     <div class="row">
-        <div class="col-12 <col-md-8></col-md-8> col-lg-6 offset-md-2 offset-lg-4">
+        <div class="col-12 col-md-8 col-lg-6 offset-md-2 offset-lg-3">
             В данный момент у вас нет ни одной активной ставки, перейдите в <a href="#">каталог</a> или воспользуйтесь поиском, чтобы подобрать интересующие вас лоты
         </div>
     </div>
