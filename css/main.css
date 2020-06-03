@@ -3196,7 +3196,7 @@ font-size: 18px;
     height: 30px;
 }
 
-.product-block .like-product .active > a svg path{
+.product-block .like-product .active > svg path{
     fill: rgb(70, 67, 242);
 }
 
