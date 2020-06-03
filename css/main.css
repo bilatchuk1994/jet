@@ -3196,7 +3196,7 @@ font-size: 18px;
     height: 30px;
 }
 
-.product-block .like-product.active > a svg path{
+.product-block .like-product .active > a svg path{
     fill: rgb(70, 67, 242);
 }
 
@@ -4823,6 +4823,11 @@ list-style: none;
     margin: 10px 26px;
     display: inline-block;
     cursor: pointer;
+}
+
+.account-page form .more-fields-wrap .more-fields-btns span.active{
+    background-color:  #4643F2;
+    color: #FFFFFF;
 }
 
 .account-page form .more-fields-wrap .more-fields-btns span:hover,
