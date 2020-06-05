@@ -1297,7 +1297,7 @@ font-size: 18px;
 
 .filter-block-container {
     position: sticky;
-    top: 60px;
+    top: 140px;
 }
 
 .filter-block ul {
@@ -3072,6 +3072,41 @@ font-size: 18px;
   line-height: 45px;
 }
 
+.product-block .make-bet.edit-bet{
+    background: #EFF3FF;
+    color: #4643F2;
+    font-weight: bold;
+font-size: 20px;
+ display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.product-block .make-bet.edit-bet:hover{
+    background: #F2F2F2;
+}
+
+.product-block .make-bet.edit-bet span.flex-center{
+    height: 31px;
+    border-right: 1px solid #4641FD;
+    padding-right: 15px;
+    margin-right: 25px;
+}
+
+.make-bet.bid-bet-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+.product-block .make-bet.bid-bet-link span.flex-center{
+    height: 31px;
+    border-right: 1px solid #ffffff;
+    padding-right: 15px;
+    margin-right: 25px;
+}
+
 .product-block .make-bet:hover{
     background-color: #005cff;
 }
@@ -3683,6 +3718,7 @@ color: #000000;
     font-size: 15px;
     color: #4643F2;
     padding-left: 9px;
+    margin: 0 0 9px;
 }
 
 .flex-form button{
@@ -3706,7 +3742,28 @@ border: 0;
     justify-content: flex-start;
     align-items: center;
     margin: 0 0 11px;
+   
 }
+
+.edit-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 11px;
+}
+
+.edit-flex a{
+    font-weight: 500;
+font-size: 12px;
+line-height: 1;
+border-bottom: 1px solid #5A5A5A;
+color: #5A5A5A;
+}
+
+.edit-flex a:hover{
+    border-bottom: 1px solid transparent;
+}
+
 
 .popup-bet-inner h6 .info img {
     width: 12px;
@@ -5326,6 +5383,10 @@ beg Cabinet Menu
     border-bottom: 0;
 }
 
+.cabinet-menu.cabinet-lots ul:last-child{
+    border-bottom: 1px solid #C4C4C4;
+}
+
 .cabinet-menu ul li{
     list-style: none;
 }
@@ -5342,6 +5403,28 @@ beg Cabinet Menu
     text-transform: uppercase;
     color: #3B3B3B;
     position: relative;
+}
+
+.cabinet-menu ul li a.telegram {
+    justify-content: center;
+    padding: 0 20px;
+}
+
+.cabinet-menu ul li a.telegram span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 30px;
+position: initial;
+background: #039BE5;
+border-radius: 50%;
+transform: translate(0);
+margin-right: 20px;
+}
+
+.cabinet-menu ul li a.telegram span svg{
+    margin-right: 2px;
 }
 
 .cabinet-menu ul li a span {
@@ -5477,6 +5560,12 @@ end Cabinet Menu
     {
         
     }
+
+
+
+
+
+
 
 
 

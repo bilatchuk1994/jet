@@ -653,6 +653,280 @@
 								</div>
 							</div>
 					</div>
+
+
+					<div class="product-block">
+						  <div class="like-product">
+						  	<a href=""><img class="svg" src="img/star.svg" alt=""></a>
+						  </div>
+							<div class="row product-row">
+								<div class="col-6 col-lg-5 col-md-5">
+									<div class="product-img-flex">
+									<a href class="product-big-img">
+										<img class="lazyload" data-src="img/product-img.jpg" alt="">
+									</a>
+									<div>
+										<a href="" class="small-img">
+										<img class="lazyload" data-src="img/product-img.jpg" alt="">
+									</a>
+									<a href="" class="small-img">
+										<img class="lazyload" data-src="img/product-img.jpg" alt="">
+									</a>
+									</div>
+									</div>
+									<div class="d-block d-md-none">
+										<div class="medium-text">
+										<p>До конца аукциона осталось:</p>
+									</div>
+									<h5>1д : 3ч : 30м</h5>
+									</div>
+								</div>
+								<div class="col-6 col-lg-7 col-md-7">
+									<div class="product-flex">
+										<div>
+											<div class="product-info-center">
+									<a href=""><h3>Сплит-система Midea Blanc MSMA1D-24HRN1 /MOCA02-24HN1 on/off</h3></a>
+									<ul class="product-list">
+										<li><img src="img/paper.svg" alt=""><a href="">СМОТРЕTь СПЕЦИФИКАЦИЮ</a></li>
+									</ul>
+									<ul class="product-detail-list">
+										<li><img src="img/product.svg" alt="">Количество товаров: <span>25</span></li>
+									</ul>
+									<div class="d-none d-md-block">
+										<div class="medium-text">
+										<p>До конца аукциона осталось:</p>
+									</div>
+									<h5>1д : 3ч : 30м</h5>
+									</div>
+									</div>
+										</div>
+										<div>
+											<div class="price-text">
+										<p>Вы зарабатываете более: <br> <span class="price-t">2500 р.</span></p>
+										<p>Розничная цена:  <br> <span class="price-m">2500 р.</span></p>
+										<div class="price-hover">
+											<p class="last-p price-hide-p">Текущая ставка: <br><span class="info-hover">Уже с НДС</span></p>
+											<div class="hide-price">
+												<img src="img/hide-price.png" alt="">
+											</div>
+											<div class="register-btn-container">
+												<a class="register-btn" href="">Зарегистрироваться</a>
+												<div class="info-hover">
+													Чтобы увидеть <br> текущие ставки - <br> зарегестрируйтесь. <br> Это бесплатно!
+												</div>
+											</div>
+										</div>
+									</div>
+										</div>
+									</div>
+								</div>
+							</div>
+					</div>
+
+					<div class="product-block">
+						  <div class="like-product">
+						  	<a href=""><img class="svg" src="img/star.svg" alt=""></a>
+						  </div>
+							<div class="row product-row">
+								<div class="col-6 col-lg-5 col-md-5">
+									<div class="product-img-flex">
+									<a href class="product-big-img">
+										<img class="lazyload" data-src="img/product-img.jpg" alt="">
+									</a>
+									<div>
+										<a href="" class="small-img">
+										<img class="lazyload" data-src="img/product-img.jpg" alt="">
+									</a>
+									<a href="" class="small-img">
+										<img class="lazyload" data-src="img/product-img.jpg" alt="">
+									</a>
+									</div>
+									</div>
+									<div class="d-block d-md-none">
+										<div class="medium-text">
+										<p>До конца аукциона осталось:</p>
+									</div>
+									<h5>1д : 3ч : 30м</h5>
+									</div>
+								</div>
+								<div class="col-6 col-lg-7 col-md-7">
+									<div class="product-flex">
+										<div>
+											<div class="product-info-center">
+									<a href=""><h3>Сплит-система Midea Blanc MSMA1D-24HRN1 /MOCA02-24HN1 on/off</h3></a>
+									<ul class="product-list">
+										<li><img src="img/paper.svg" alt=""><a href="">СМОТРЕTь СПЕЦИФИКАЦИЮ</a></li>
+									</ul>
+									<ul class="product-detail-list">
+										<li><img src="img/product.svg" alt="">Количество товаров: <span>25</span></li>
+									</ul>
+									<div class="d-none d-md-block">
+										<div class="medium-text">
+										<p>До конца аукциона осталось:</p>
+									</div>
+									<h5>1д : 3ч : 30м</h5>
+									</div>
+									</div>
+										</div>
+										<div>
+											<div class="price-text">
+										<p>Вы зарабатываете более: <br> <span class="price-t">2500 р.</span></p>
+										<p>Розничная цена:  <br> <span class="price-m">2500 р.</span></p>
+										<div class="price-hover">
+											<p class="last-p price-hide-p">Текущая ставка: <br><span class="info-hover">Уже с НДС</span></p>
+											<div class="hide-price">
+												<img src="img/hide-price.png" alt="">
+											</div>
+											<div class="register-btn-container">
+												<a class="register-btn" href="">Зарегистрироваться</a>
+												<div class="info-hover">
+													Чтобы увидеть <br> текущие ставки - <br> зарегестрируйтесь. <br> Это бесплатно!
+												</div>
+											</div>
+										</div>
+									</div>
+										</div>
+									</div>
+								</div>
+							</div>
+					</div>
+
+
+					<div class="product-block">
+						  <div class="like-product">
+						  	<a href=""><img class="svg" src="img/star.svg" alt=""></a>
+						  </div>
+							<div class="row product-row">
+								<div class="col-6 col-lg-5 col-md-5">
+									<div class="product-img-flex">
+									<a href class="product-big-img">
+										<img class="lazyload" data-src="img/product-img.jpg" alt="">
+									</a>
+									<div>
+										<a href="" class="small-img">
+										<img class="lazyload" data-src="img/product-img.jpg" alt="">
+									</a>
+									<a href="" class="small-img">
+										<img class="lazyload" data-src="img/product-img.jpg" alt="">
+									</a>
+									</div>
+									</div>
+									<div class="d-block d-md-none">
+										<div class="medium-text">
+										<p>До конца аукциона осталось:</p>
+									</div>
+									<h5>1д : 3ч : 30м</h5>
+									<a class="make-bet edit-bet popup-btn" data-effect="mfp-zoom-in" href="#popup-bet"> <span><span class="flex-center"><img src="img/edit-link.svg" alt=""></span></span> 1 000 000 ₽</a>
+									</div>
+								</div>
+								<div class="col-6 col-lg-7 col-md-7">
+									<div class="product-flex">
+										<div>
+											<div class="product-info-center">
+									<a href=""><h3>Сплит-система Midea Blanc MSMA1D-24HRN1 /MOCA02-24HN1 on/off</h3></a>
+									<ul class="product-list">
+										<li><img src="img/paper.svg" alt=""><a href="">СМОТРЕTь СПЕЦИФИКАЦИЮ</a></li>
+									</ul>
+									<ul class="product-detail-list">
+										<li><img src="img/product.svg" alt="">Количество товаров: <span>25</span></li>
+									</ul>
+									<div class="d-none d-md-block">
+										<div class="medium-text">
+										<p>До конца аукциона осталось:</p>
+									</div>
+									<h5>1д : 3ч : 30м</h5>
+									</div>
+									</div>
+										</div>
+										<div>
+											<div class="price-text">
+										<p>Вы зарабатываете более: <br> <span class="price-t">2500 р.</span></p>
+										<p>Розничная цена:  <br> <span class="price-m">2500 р.</span></p>
+										<p class="last-p">Текущая ставка: <br> <span class="price-b">365 540 ₽</span> <span class="info-hover">Уже с НДС</span></p>
+										<div class="d-none d-md-block">
+											<a class="make-bet edit-bet popup-btn" data-effect="mfp-zoom-in" href="#popup-bet"> <span><span class="flex-center"><img src="img/edit-link.svg" alt=""></span></span> 1 000 000 ₽</a>
+										</div>
+									</div>
+										</div>
+									</div>
+								</div>
+							</div>
+					</div>
+
+					<div class="product-block">
+						  <div class="like-product">
+						  	<a href=""><img class="svg" src="img/star.svg" alt=""></a>
+						  </div>
+							<div class="row product-row">
+								<div class="col-6 col-lg-5 col-md-5">
+									<div class="product-img-flex">
+									<a href class="product-big-img">
+										<img class="lazyload" data-src="img/product-img.jpg" alt="">
+									</a>
+									<div>
+										<a href="" class="small-img">
+										<img class="lazyload" data-src="img/product-img.jpg" alt="">
+									</a>
+									<a href="" class="small-img">
+										<img class="lazyload" data-src="img/product-img.jpg" alt="">
+									</a>
+									</div>
+									</div>
+									<div class="d-block d-md-none">
+										<div class="medium-text">
+										<p>До конца аукциона осталось:</p>
+									</div>
+									<h5>1д : 3ч : 30м</h5>
+
+                   <!--  кнопка -->
+
+									<a class="make-bet bid-bet-link popup-btn" data-effect="mfp-zoom-in" href="#popup-bet"> <span><span class="flex-center"><img src="img/bid-link.svg" alt=""></span></span> 1 000 000 ₽</a>
+                      
+                   <!--  кнопка -->
+
+									</div>
+								</div>
+								<div class="col-6 col-lg-7 col-md-7">
+									<div class="product-flex">
+										<div>
+											<div class="product-info-center">
+									<a href=""><h3>Сплит-система Midea Blanc MSMA1D-24HRN1 /MOCA02-24HN1 on/off</h3></a>
+									<ul class="product-list">
+										<li><img src="img/paper.svg" alt=""><a href="">СМОТРЕTь СПЕЦИФИКАЦИЮ</a></li>
+									</ul>
+									<ul class="product-detail-list">
+										<li><img src="img/product.svg" alt="">Количество товаров: <span>25</span></li>
+									</ul>
+									<div class="d-none d-md-block">
+										<div class="medium-text">
+										<p>До конца аукциона осталось:</p>
+									</div>
+									<h5>1д : 3ч : 30м</h5>
+									</div>
+									</div>
+										</div>
+										<div>
+											<div class="price-text">
+										<p>Вы зарабатываете более: <br> <span class="price-t">2500 р.</span></p>
+										<p>Розничная цена:  <br> <span class="price-m">2500 р.</span></p>
+										<p class="last-p">Текущая ставка: <br> <span class="price-b">365 540 ₽</span> <span class="info-hover">Уже с НДС</span></p>
+										<div class="d-none d-md-block">
+
+                        <!--  кнопка -->
+
+											<a class="make-bet bid-bet-link popup-btn" data-effect="mfp-zoom-in" href="#popup-bet"> <span><span class="flex-center"><img src="img/bid-link.svg" alt=""></span></span> 1 000 000 ₽</a>
+
+											  <!--  кнопка -->
+											  
+										</div>
+									</div>
+										</div>
+									</div>
+								</div>
+							</div>
+					</div>
+
+
 					</div>
 
 
