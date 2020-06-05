@@ -65,7 +65,8 @@ jQuery('.close-btn').click(function(event) {
 
 $('body').click(function(e) {
     if ($(e.target).closest('.header-cabiner').length === 0) {
-        $(".cabinet-menu").hide();
+        $(".cabinet-lots").hide();
+        $(".cabinet-user").hide();
     }
 });
 

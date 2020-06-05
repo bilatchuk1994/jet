@@ -613,6 +613,14 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
     top: 0;
 }
 
+.banner.banner-lots .banner-img img {
+    max-height: 120px;
+}
+
+.banner.banner-lots .banner-img {
+    transform: translateY(-50%);
+}
+
 }
 
 
@@ -865,10 +873,12 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
         
    min-height: 80px;
     }
-            .banner.banner-lots .banner-img {
-    max-height: 90px;
-}
 
+.banner.banner-lots .banner-img {
+    max-height: 90px;
+    position: initial;
+    transform: translate(0);
+}
 
 }
 
