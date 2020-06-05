@@ -621,6 +621,10 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
     transform: translateY(-50%);
 }
 
+.cabinet-menu.cabinet-lots-menu{
+    display: none;
+}
+
 }
 
 
