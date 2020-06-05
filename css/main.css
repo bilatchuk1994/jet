@@ -243,6 +243,17 @@ font-size: 14px;
     margin-left: 19px;
     cursor: pointer;
     position: relative;
+    -webkit-transition: .2s ease-in;
+    -o-transition: .2s ease-in;
+    transition: .2s ease-in;
+}
+
+.cabinet-icon:hover{
+    background-color: #4641FD;
+}
+
+.cabinet-icon:hover > svg path{
+    fill: #fff;
 }
 
 .cabinet-icon img{
