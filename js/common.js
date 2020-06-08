@@ -72,6 +72,8 @@ $('body').click(function(e) {
 
 
 
+
+
 function damaxToggleMenu() {
     $("#toggle").click(function() {
         $(".cabinet-menu-container").toggleClass(" active");

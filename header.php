@@ -93,7 +93,7 @@
                 </div>
                 <div>
                   <div class="cabinet-icon cabinet-btn1 flex-center">
-                      <img class="svg" src="img/security.svg" alt="">
+                      <img class="svg" src="img/security2.svg" alt="">
                       <span>202</span>
                     </div>
                 </div> 

@@ -549,10 +549,11 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
 }
 
 .cabinet-menu-container-bg {
-    width: 308px;
+    width: 315px;
     height: 100%;
     background-color: #fff;
     overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
 }
 
 .cabinet-menu-container.active{
@@ -561,12 +562,12 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
 }
 
 
-.cabinet-menu{
+.cabinet-menu {
     display: block;
     position: initial;
     box-shadow: none;
     border-radius: 0;
-    width: 308px;
+    width: 100%;
 }
 
 .cabinet-user ul{
@@ -586,21 +587,27 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
     font-size: 14px;
 }
 
+
+.cabinet-menu ul {
+    width: 315px;
+}
+
 .cabinet-menu .cabinet-login {
     height: 48px;
     line-height: 48px;
+    width: 315px;
 }
 
-.close-menu-btn{
-   width: 52px;
-   height: 48px;
-   background: #4643F2;
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   position: absolute;
-   top: 0;
-   right: 308px; 
+.close-menu-btn {
+    width: 52px;
+    height: 48px;
+    background: #4643F2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    right: 315px;
 }
 
 #toggle:before {
@@ -902,6 +909,18 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
     position: initial;
     transform: translate(0);
 }
+
+.cabinet-menu ul {
+    border-bottom: 1px solid #C4C4C4;
+    width: 315px;
+}
+
+.header-cabiner {
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+
 
 }
 
@@ -1502,6 +1521,11 @@ a.make-bet.bid-bet-link.popup-btn {
     margin-right: 15px;
 }
 
+.cabinet-menu ul li a {
+    height: 43px;
+    line-height: 43px;
+}
+
 
 }
 
@@ -1622,7 +1646,7 @@ a.make-bet.bid-bet-link.popup-btn {
 }
 .close-menu-btn {
     width: 42px;
-    right: 278px;
+    right: 273px;
 }
 
 .cabinet-menu ul li a {
