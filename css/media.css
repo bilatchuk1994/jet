@@ -599,13 +599,13 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
 
 #toggle:before {
     content: "";
-    width: 8px;
-    height: 8px;
+    width: 14px;
+    height: 14px;
     background: #FF0000;
     border-radius: 50%;
     position: absolute;
-    bottom: 2px;
-    right: 0;
+    bottom: -3px;
+    right: -3px;
 }
 
 .banner-tv .banner-img {

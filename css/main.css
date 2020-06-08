@@ -5505,6 +5505,14 @@ margin-right: 20px;
 end Cabinet Menu 
 =================== */
 
+.banner-lots{
+    padding: 15px 0 15px;
+}
+
+.banner-lots h3 {
+    font-size: 30px;
+    margin: 0 0 15px;
+}
 
 
 .banner.lots-for-payment{
@@ -5535,15 +5543,15 @@ end Cabinet Menu
 }
 
 .banner.banner-lots .row:nth-child(2) {
-    min-height: 110px;
+    min-height: 86px;
 }
 
-.banner.banner-lots p{
+.banner.banner-lots p {
     width: 100%;
     color: #ffffff;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 400;
-    line-height: 25px;
+    line-height: 22px;
 }
 
 .banner.banner-lots p::before{
@@ -5559,8 +5567,8 @@ end Cabinet Menu
     transform: translateY(-60%);
 }
 
-.banner.banner-lots .banner-img img{
-  max-height: 140px;  
+.banner.banner-lots .banner-img img {
+    max-height: 110px;
 }
 
 .lots-none{
@@ -5572,14 +5580,13 @@ end Cabinet Menu
 
 
 
-
-
 .cabinet-menu.cabinet-lots-menu {
     display: block;
-    position: initial;
+    position: sticky;
     box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.1);
     width: 100%;
     margin: 0 0 30px;
+    top: 170px;
 }
 
 
