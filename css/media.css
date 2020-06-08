@@ -543,10 +543,16 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
     flex-direction: column;
     align-items: flex-end;
     height: 100vh;
-    overflow-y: auto;
         -webkit-transition: .2s ease-in;
     -o-transition: .2s ease-in;
     transition: .2s ease-in;
+}
+
+.cabinet-menu-container-bg {
+    width: 308px;
+    height: 100%;
+    background-color: #fff;
+    overflow-y: auto;
 }
 
 .cabinet-menu-container.active{
@@ -623,6 +629,19 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
 
 .cabinet-menu.cabinet-lots-menu{
     display: none;
+}
+
+.cabinet-menu ul li a {
+    font-size: 12px;
+}
+
+.cabinet-menu ul li a.telegram span {
+    margin-right: 10px;
+}
+
+.cabinet-menu ul li a.telegram {
+    justify-content: flex-start;
+    padding: 0 0 0 20px;
 }
 
 }

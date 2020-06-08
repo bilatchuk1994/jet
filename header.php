@@ -103,6 +103,7 @@
                     </div>
                 </div>
                 <div class="cabinet-menu-container">
+                  <div class="cabinet-menu-container-bg">
                   <div class="d-block d-lg-none">
                     <div class="close-menu-btn">
                       <img src="img/close-menu.svg" alt="">
@@ -176,6 +177,7 @@
                     </li>
                   </ul>
                 </div> 
+                </div>
                 </div>
               </div>
 
