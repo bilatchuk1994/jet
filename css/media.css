@@ -105,6 +105,12 @@
     width: 87px;
     right: -34px;
 }
+.banner-whiteness .banner-img {
+    left: 101px;
+}
+.banner-clothes .banner-img {
+    left: 72px;
+}
 }
 
 
@@ -651,6 +657,16 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
     padding: 0 0 0 20px;
 }
 
+.banner-clothes .banner-img {
+    left: 20px;
+    top: 0;
+}
+
+.banner-whiteness .banner-img {
+    left: 20px;
+    top: 0;
+}
+
 }
 
 
@@ -920,7 +936,15 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
     flex-wrap: wrap;
 }
 
+.banner-whiteness .banner-img {
+    left: 0;
+    top: 0;
+}
 
+.banner-clothes .banner-img {
+    left: 0;
+    top: 0;
+}
 
 }
 
@@ -1528,6 +1552,14 @@ a.make-bet.bid-bet-link.popup-btn {
 
 .cabinet-menu.cabinet-user {
     padding-bottom: 50px;
+}
+
+.banner-whiteness .banner-img {
+    left: -10px;
+}
+
+.banner-clothes .banner-img {
+    left: -10px;
 }
 
 

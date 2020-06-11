@@ -4235,6 +4235,30 @@ list-style: none;
     top: -16px;
 }
 
+
+.banner-clothes{
+    background-color: #45bdfa;
+}
+
+.banner-clothes .banner-img {
+    left: 102px;
+    top: -43px;
+}
+
+
+.banner-whiteness{
+    background-color: #ccdcec;
+}
+
+.banner-whiteness .banner-img {
+    left: 171px;
+    top: -52px;
+}
+
+
+
+
+
 /*======== end Banners ========*/
 
 
