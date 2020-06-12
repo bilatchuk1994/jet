@@ -16,6 +16,7 @@
 						<li><a href="">Решение споров</a></li>
 						<li><a href="">Доставка и получение </a></li>
 						<li><a href="">Реквизиты</a></li>
+						<li><a target="_blank" href="Публ_оферта_Restocker_ru_услуги.pdf">Договор оферты</a></li>
 					</ul>
 				</div>
 				<div class="col-lg-3 col-md-3 col-sm-6">
