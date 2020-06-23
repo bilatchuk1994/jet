@@ -5709,7 +5709,7 @@ end Cabinet Menu
 }
 
 .payment-page .text-center button{
-    align-items: center;
+    margin: 0 auto;
 }
 
 .payment-page .page-title {
