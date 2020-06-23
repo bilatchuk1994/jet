@@ -5660,6 +5660,22 @@ end Cabinet Menu
     padding: 16px;
 }
 
+.order-page .blue-brdr h3{
+    color: #333333;
+}
+
+.order-page .blue-brdr p{
+    color: #333333;
+}
+
+.delivery__adress{
+    margin: 20px 0 0;
+}
+
+.blue-brdr button {
+    margin: 0 auto;
+}
+
 .order-page .information-text {
     font-style: normal;
     font-weight: 500;
@@ -5673,10 +5689,29 @@ end Cabinet Menu
 .order-page form input.error {
     border: 1px solid #FF5555;
 }
+
+.validation-errors{
+    font-size: 10px;
+    color: red;
+    list-style: none;
+}
+
+
+
 /*======== end Order-css ========*/
 
 
 /*======== end Payment-css ========*/
+
+
+.payment-steps {
+    margin: 0 0 30px;
+}
+
+.payment-page .text-center button{
+    align-items: center;
+}
+
 .payment-page .page-title {
     font-weight: bold;
     font-size: 20px !important;
