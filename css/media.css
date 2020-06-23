@@ -946,33 +946,108 @@ ul.slick-dots li.slick-active > button{background-color:#4641fd}
     top: 0;
 }
 
+.tabs-panel .payment-steps .row .col-12:after {
+    content: none;
+}
+
+.tabs-panel .payment-steps .row .col-12 {
+    margin-bottom: 25px;
+}
+
 }
 
 
 @media screen and (max-width: 600px) {
-        .tabs {
-            flex-direction: column;
-        }
-
-        .tabs li {
-            width: 100%;
-        }
-
-        .tabs li:not(:last-child) {
-            margin-right: 0;
-        }
-
-        .tabs li a {
-            border-radius: 0;
-            opacity: 1;
-            top: 0;
-        }
-
-
-        .tabs-content {
-            border-radius: 0;
-        }
+    .tabs {
+        flex-direction: column;
     }
+
+    .tabs li {
+        width: 100%;
+    }
+
+    .tabs li:not(:last-child) {
+        margin-right: 0;
+    }
+
+    .tabs li a {
+        border-radius: 0;
+        opacity: 1;
+        top: 0;
+    }
+
+
+    .tabs-content {
+        border-radius: 0;
+    }
+
+    .payment-page ul.tabs li a {
+        border: 1px solid #BBBBBB !important;
+        border-radius: 5px !important;
+        margin-bottom: 30px;
+    }
+
+    .payment-page .payment-desktop-table {
+        display: none;
+    }
+
+
+    .payment-mobile-table {
+        margin: 30px auto;
+    }
+
+    .payment-mobile-table .payment-mobile-table-title {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 19px;
+        color: #BBBBBB;
+        margin-bottom: 15px;
+    }
+
+    .payment-mobile-table .product {
+        border-top: 1px solid #C4C4C4;
+        margin-bottom: 20px;
+    }
+
+    .payment-mobile-table .product .product-image img {
+        width: 100%;
+        max-width: 180px;
+        height: auto;
+        padding: 10px 5px;
+    }
+
+    .payment-mobile-table .product .product-title {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 18px;
+        color: #2F2F2F;
+    }
+
+    .payment-mobile-table .product p {
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 19px;
+        color: #BBBBBB;
+        display: flex;
+        -ms-flex-align: center !important;
+        align-items: center !important;
+        text-align: left;
+        -ms-flex-pack: justify !important;
+        justify-content: space-between !important;
+        margin-bottom: 10px;
+    }
+
+    .payment-mobile-table .product p span {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 18px;
+        text-align: right;
+        color: #000000;
+    }
+
+}
 
 
 /*==============================  Desktop 575  ==============================*/
@@ -1567,6 +1642,67 @@ a.make-bet.bid-bet-link.popup-btn {
 
 
 
+
+
+
+@media (max-width: 469.9px) {
+    .payment-page .payment-card-blck {
+        width: 320px;
+        height: 188px;
+        position: relative;
+        margin: 20px auto;
+        background: url(new-images/card.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .payment-page .payment-card-blck input#card-number {
+        top: 80px;
+        height: 30px;
+        left: 35px;
+    }
+
+    .payment-page .payment-card-blck input#card-ex-m {
+        top: 140px;
+        left: 35px;
+        height: 30px;
+        width: 30px;
+    }
+
+    .payment-page .payment-card-blck input#card-ex-y {
+        top: 140px;
+
+        left: 95px;
+        height: 30px;
+        width: 30px;
+
+    }
+
+    .payment-page .payment-card-blck input#card-ex-cvv {
+        top: 140px;
+        left: 235px;
+        height: 30px;
+        width: 40px;
+    }
+
+    .payment-page .payment-total p {
+        display: flex;
+        -ms-flex-align: center !important;
+        align-items: center !important;
+        text-align: left;
+        -ms-flex-pack: justify !important;
+        justify-content: space-between !important;
+    }
+
+    .payment-page .payment-total {
+        padding: 15px 15px;
+    }
+
+    .payment-page .payment-total p span {
+        width: 150px;
+        text-align: right;
+    }
+}
 
 
 
