@@ -1651,7 +1651,7 @@ a.make-bet.bid-bet-link.popup-btn {
         height: 188px;
         position: relative;
         margin: 20px auto;
-        background: url(new-images/card.png);
+        background: url(../img/card.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
