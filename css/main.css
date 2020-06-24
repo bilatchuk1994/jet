@@ -5926,7 +5926,7 @@ end Cabinet Menu
 }
 
 
-.product-row.align-items-center.product-block .product-flex {
+.product-row.align-items-center .product-block .product-flex {
     justify-content: space-between;
     align-items: center;
 }
