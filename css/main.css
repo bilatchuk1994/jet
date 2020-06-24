@@ -5925,6 +5925,12 @@ end Cabinet Menu
     color: #000000;
 }
 
+
+.product-row.align-items-center.product-block .product-flex {
+    justify-content: space-between;
+    align-items: center;
+}
+
 /*======== end Payment-css ========*/
 
 
