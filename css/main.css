@@ -5931,6 +5931,10 @@ end Cabinet Menu
     align-items: center;
 }
 
+.tabs-panel .text-center .btn {
+    margin: 0 auto;
+}
+
 /*======== end Payment-css ========*/
 
 
