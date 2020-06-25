@@ -4820,6 +4820,7 @@ list-style: none;
     width: auto;
     min-width: 250px;
     padding: 0 20px;
+    cursor: pointer;
 }
 
 .btn-primary:hover {
@@ -4828,11 +4829,16 @@ list-style: none;
     border-color: rgb(70, 67, 242);
 }
 
+.account-page form .payment-card-blck button:hover svg path{
+    fill: rgb(70, 67, 242);
+}
+
 .account-page form button[type="submit"]:hover,
 .account-page form button[type="submit"]:active,
 .account-page form button[type="submit"]:focus {
-       background: rgb(255, 255, 255);
+       background: transparent;
     color: rgb(70, 67, 242);
+    cursor: pointer;
 }
 
 .account-page form .form-group label {
