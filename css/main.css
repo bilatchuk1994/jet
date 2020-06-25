@@ -5898,6 +5898,7 @@ end Cabinet Menu
     display: flex;
     -ms-flex-align: center !important;
     align-items: center !important;
+    justify-content: center;
 }
 
 .payment-page .tabs-container form button[type="submit"] svg {
