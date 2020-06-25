@@ -4804,31 +4804,35 @@ list-style: none;
 }
 
 .account-page form button[type="submit"] {
-    background: #4643F2;
-    border-radius: 2px;
-    height: 48px;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 15px;
-    line-height: 19px;
-    color: #FFFFFF;
-    text-align: center;
-    padding: 13px 21px;
+    border-radius: 5px;
+    background-color: #4643f2;
+    border: 1.5px solid #4643f2;
+    height: 45px;
     display: block;
-    width: auto;
-    margin: 20px auto 10px;
+    text-align: center;
+    line-height: 44px;
+    font-size: 14px;
+    color: #fff;
+    font-weight: bold;
     text-transform: uppercase;
-    transition: all 0.3s;
-    cursor: pointer;
+    padding: 0;
+    margin: 0 auto;
+    width: auto;
+    min-width: 250px;
+    padding: 0 20px;
+}
+
+.btn-primary:hover {
+    color: rgb(70, 67, 242);
+    background-color:  rgb(255, 255, 255);
+    border-color: rgb(70, 67, 242);
 }
 
 .account-page form button[type="submit"]:hover,
 .account-page form button[type="submit"]:active,
 .account-page form button[type="submit"]:focus {
-    box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.2);
-    transition: all 0.3s;
-    border-color: #4643F2;
-    background: #4643F2;
+       background: rgb(255, 255, 255);
+    color: rgb(70, 67, 242);
 }
 
 .account-page form .form-group label {
@@ -5674,6 +5678,9 @@ end Cabinet Menu
 
 .blue-brdr button {
     margin: 0 auto;
+    width: auto;
+    min-width: 250px;
+    cursor: pointer;
 }
 
 .order-page .information-text {
