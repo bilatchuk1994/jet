@@ -34,7 +34,8 @@
         <a class="popup-btn" data-effect="mfp-zoom-in" href="#popup-login">Попап 1</a><br><br>
         <a class="popup-btn" data-effect="mfp-zoom-in" href="#popup-contact">Попап 2</a><br><br>
         <a class="popup-btn" data-effect="mfp-zoom-in" href="#popup-step-3">Попап ШАГ 3</a><br><br>
-        <a class="popup-btn" data-effect="mfp-zoom-in" href="#popup-step-4">Попап ШАГ 4</a>
+        <a class="popup-btn" data-effect="mfp-zoom-in" href="#popup-step-4">Попап ШАГ 4</a><br><br>
+        <a class="popup-btn" data-effect="mfp-zoom-in" href="#popup-money">Попап 6</a>
       </div>
     </div>
   </div>
@@ -58,6 +59,26 @@
         </form>
         <h6>обещаем, никакого спама или рекламы ✌️</h6>
         <h5>Уже зарегистрированы? <a href="">Войти</a> </h5>
+      </div>
+      <div class="close-btn">
+         <img src="img/close-popup.svg" alt="">
+      </div>  
+    </div>
+  </div>
+
+
+<div id="popup-money" class="white-popup mfp-hide mfp-with-anim">
+    <div class="popup-block popup-money">
+      <div class="popup-title">
+        <h2>Хотите превратить все свои проблемные товарные остатки быстро в  живые деньги ?</h2>
+      </div> 
+      <div>
+        <form class="form" method="post" action="https://restocker.ru/login">
+          <input type="text" placeholder="Имя" name="email">
+          <input type="email" placeholder="Введите ваш email" name="email">
+          <input type="tel" placeholder="Телефон" name="email">
+          <button type="submit">Да, хочу!</button>
+        </form>
       </div>
       <div class="close-btn">
          <img src="img/close-popup.svg" alt="">

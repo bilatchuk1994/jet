@@ -1637,6 +1637,14 @@ a.make-bet.bid-bet-link.popup-btn {
     left: -10px;
 }
 
+.popup-block.popup-money button {
+    width: 100%;
+}
+
+.popup-block.popup-money .form {
+    padding: 0;
+}
+
 
 }
 
