@@ -54,26 +54,12 @@
                   </div>
                   <div class="d-block d-md-none">
                     <div class="medium-text">
-                    <p>До конца аукциона осталось:</p>
-                  </div>
-                  <h5>1д : 3ч : 30м</h5>
                   <div class="cabinet-link">
                         <a href="" class="make-bet">Отследить заказ</a>
                       </div>
-                      <div class="cabinet-link">
-                      <a href="" class="ttn-link">Сформировать счет</a>
-                    </div>
-                    <div class="cabinet-link">
-                      <a href="" class="ttn-link">Сформировать ТТН</a>
-                    </div>
-                    <div class="cabinet-link">
-                      <a href="" class="ttn-link">Сформировать ТТН</a>
-                    </div>
-                    <div class="cabinet-link">
-                      <a href="" class="ttn-link">Сформировать ТТН <br> для служби доставки</a>
-                    </div>
                   </div>
                 </div>
+              </div>
                 <div class="col-6 col-lg-7 col-md-7">
                   <div class="product-flex">
                     <div>
@@ -85,32 +71,28 @@
                   <ul class="product-detail-list">
                     <li><img src="img/product.svg" alt="">Количество товаров: <span>25</span></li>
                   </ul>
-                  <div class="d-none d-md-block">
-                    <div class="medium-text">
-                    <p>До конца аукциона осталось:</p>
-                  </div>
-                  <h5>1д : 3ч : 30м</h5>
-                  </div>
-                  </div>
                     </div>
                     <div>
                       <div class="d-none d-md-block">
                       <div class="cabinet-link">
                         <a href="" class="make-bet">Отследить заказ</a>
                       </div>
-                      <div class="cabinet-link">
+                    </div>
+
+                    <div class="cabinet-link">
                       <a href="" class="ttn-link">Сформировать счет</a>
                     </div>
                     <div class="cabinet-link">
                       <a href="" class="ttn-link">Сформировать ТТН</a>
                     </div>
+
                     <div class="cabinet-link">
                       <a href="" class="ttn-link">Сформировать ТТН</a>
                     </div>
                     <div class="cabinet-link">
                       <a href="" class="ttn-link">Сформировать ТТН <br> для служби доставки</a>
                     </div>
-                    </div>
+
                   </div>
                     </div>
                   </div>
