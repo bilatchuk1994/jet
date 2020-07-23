@@ -120,6 +120,10 @@
   </div>
 
 
+<div class="back-btn-inner">
+  <a class="back-btn" href=""> <img src="img/left-arrow.svg" alt=""> Вернуться к списку</a>
+</div>
+
   <div class="popup-table-inner lot-table">
     <div class="popup-scroll">
     <table>
@@ -177,6 +181,9 @@
         <th class="bottom-table"></th>
       </tr>
     </table>
+    </div>
+    <div class="add-btn">
+      <button type="button"><img src="img/plus-row.svg" alt=""> Добавить</button>
     </div>
     <div class="flex-center">
       <div>

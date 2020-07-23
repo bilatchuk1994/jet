@@ -6111,6 +6111,48 @@ input[type="number"] {
 }
 
 
+.back-btn{
+  font-size: 18px;
+  color: rgb(70, 67, 242);
+}
+
+.back-btn img{
+    width: 25px;
+    margin-right: 7px;
+}
+
+.back-btn-inner{
+    margin: 30px 0 15px;
+}
+
+.add-btn {
+  margin-bottom: 20px;
+}
+
+.add-btn button{
+    border-radius: 10px;
+    background-color: rgb(70, 67, 242);
+    box-shadow: 0px 4px 6px 0px rgba(60, 60, 60, 0.16);
+    width: 190px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    padding: 0 15px;
+    border: 0;
+}
+
+.add-btn button img{
+    width: 20px;
+    margin-right: 7px;
+}
+
+
 /*======== beg Footer ========*/
 .footer {
     background-color: rgb(255, 255, 255);
@@ -6502,6 +6544,11 @@ border: 1px solid #4643F2;
     justify-content: flex-end;
     align-items: center;
 }
+
+
+
+
+
 
 .mfp-zoom-in .mfp-with-anim{opacity:0;transition:all .2s ease-in-out;transform:scale(0.8)}
 .mfp-zoom-in.mfp-bg{opacity:0;transition:all .3s ease-out}
